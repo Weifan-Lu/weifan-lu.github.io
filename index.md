@@ -30,14 +30,11 @@ Very beautiful campus, thank you William for hosting!
 
 **[2024.09] International Joint Workshop on Slow-to-Fast Earthquakes 2024 at Beppu**
 
-**[2024.05] I Got the SSA student presentation award!**  
-Did't even remember I participate, but it's so lucky to get it: I'll no longer be a Ph.D. student :)
+**[2024.05] JpGU at Chiba** 
 
-**[2024.04] Finished [manuscript on LoSAR](http://dx.doi.org/10.22541/essoar.171412572.25170940/v1), finally ...**  
-I think the earthquake cataloging problem is solved to a satisfactory degree, and I can mentally move on to sooooo many other interesting projects!
+**[2023.12] AGU at San Francisco** 
 
-**[2023.12] AGU at SF**  
-Good to see AGU getting back to its pre-COVID state, and I'm able to meet my Chinese friends
+**[2023.10] Start my Visiting PhD program at the University of Tokyo** 
 
 **[2023.09] The [EQS paper](https://www.equsci.org.cn/article/doi/10.1016/j.eqs.2023.11.001) published**
 
