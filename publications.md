@@ -15,7 +15,7 @@ Yue. H<sup>`*`</sup>., J. Geng, **W. Lu**, & G. Li (2024). Post-foreshock transi
 
 ### PEER PUBLICATIONS
 
-**Lu, W**., Z. Zhao, H. Yue<sup>`*`</sup>, S. Zhou, & Y. Zhou (2021). Aftershock sequence of the 2017 M<sub>w</sub> 6.5 Jiuzhaigou, China earthquake monitored by an AsA network and its implication to fault structures and strength. *Geophysical Journal International*; 228 (3): 1763-1779. doi: [10.1093/gji/ggab443](https://doi.org/10.1093/gji/ggab443) 
+**Lu, W**., Y. Zhou, Z. Zhao, H. Yue<sup>`*`</sup>,  & S. Zhou (2021). Aftershock sequence of the 2017 M<sub>w</sub> 6.5 Jiuzhaigou, China earthquake monitored by an AsA network and its implication to fault structures and strength. *Geophysical Journal International*; 228 (3): 1763-1779. doi: [10.1093/gji/ggab443](https://doi.org/10.1093/gji/ggab443) 
 
 **Lu, W**., Z. Zhao, H. Yue<sup>`*`</sup>, S. Zhou, J. Wu, & X. Song (2024). The accessible seismological dataset of a high-density 2D seismic array along Anninghe fault. *Earthquake Science*; 37 (1): 67-77. doi: [10.1016/j.eqs.2023.11.001](https://www.equsci.org.cn/article/doi/10.1016/j.eqs.2023.11.001)
 
