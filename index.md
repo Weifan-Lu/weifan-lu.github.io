@@ -18,15 +18,17 @@ Currently, I am a long-term Visiting PhD student at the University of Tokyo (Fro
 * * *
 ## News and Events  
 
-**[2024.12] Visited Visited MIT**  
+**[2024.12] Visited MIT**  
+Very beautiful campus, thank you William for hosting!
 
 **[2024.12] AGU at Washington, D.C.** 
 
 **[2024.11] Visited DPRI, Kyoto University**  
 [Joint-seminar](https://eqhz.dpri.kyoto-u.ac.jp/topics/seminars/%E6%9D%B1%E5%A4%A7%E7%90%86%E4%BA%95%E5%87%BA%E7%A0%94%E3%81%A8%E3%81%AE%E5%90%88%E5%90%8C%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BC20241111.html#en). Weifan give a talk about anti-repeating earthquakes
 
-**[2024.10] Visited SUSTech, CEA-IGP and conference in Beijing**  
-Fantastic experience KTV with USC club in Beijing :)
+**[2024.10] SSJ meeting at Niigata**  
+
+**[2024.09] International Joint Workshop on Slow-to-Fast Earthquakes 2024 at Beppu**
 
 **[2024.05] I Got the SSA student presentation award!**  
 Did't even remember I participate, but it's so lucky to get it: I'll no longer be a Ph.D. student :)
