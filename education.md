@@ -25,12 +25,12 @@ Advisor: Han Yue
 Outstanding  Scientific Research Award, Peking University
 
 ### 2023  
-Tung OOCL Scholarship, Peking University
+Tung OOCL Scholarship, Peking University\
 Merit Student Award, Peking University 
 
 ### 2022  
-President Scholarship, Peking University
-Merit Student Award, Peking University 
+President Scholarship, Peking University\
+Merit Student Award, Peking University \
 Outstanding  Scientific Research Award, Peking University
 
 ### 2021
@@ -40,7 +40,7 @@ Outstanding  Scientific Research Award, Peking University
 Outstanding Presentation (China Seismic Experimental Site Conference)  
 
 ### 2018  
-National Scholarship, Ministry of Education of the People’s Republic of China
+National Scholarship, Ministry of Education of the People’s Republic of China\
 Meritorious Winner (top 10% Worldwide), Mathematical Contest in Modeling (MCM)
 
 ### 2017
