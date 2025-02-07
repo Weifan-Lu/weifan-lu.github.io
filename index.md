@@ -1,12 +1,12 @@
 ## About me:
 
- I am a PhD student in the School of Earth and Space Science at Peking University, working with Prof. Han Yue and Prof. Lian Xue.  \
- Now, I am a long-term Visiting PhD student at the University of Tokyo (From 2023.10-now). My supervisor is Professor Satoshi Ide.
+ I am a PhD student in the School of Earth and Space Science at Peking University, working with Prof. [Han Yue](http://geophy.pku.edu.cn/pubtphp/yuehan/english/) and Prof. [Lian Xue](http://geophy.pku.edu.cn/people/xuelian/).  
+ 
+Currently, I am a long-term Visiting PhD student at the University of Tokyo (From 2023.10-now). My supervisor is Professor [Satoshi Ide](https://www.s.u-tokyo.ac.jp/en/people/ide_satoshi/).
        I am interested in observational seismology and earthquake physics. 
 
-I am a geoscientist working on seismicity, fault zone physics, and slow earthquakes. I develop open-sourced software for seismic data processing, please stay tunned on [my GitHub](https://github.com/YijianZhou). My recent research activities are posted on [Twitter](https://twitter.com/yijian_zhou), [Bluesky](https://bsky.app/profile/yijianzhou.bsky.social), [ResearchGate](https://www.researchgate.net/profile/Yijian-Zhou-3), and [Google Scholar](https://scholar.google.com/citations?user=JgxHkKgAAAAJ&hl=en)
+ My recent research activities are posted on [ResearchGate](https://www.researchgate.net/profile/Weifan-Lu-2), and [Google Scholar](https://scholar.google.com/citations?user=LBrFx5gAAAAJ&hl=en)
 
-Currently, I am a Post-doc in California Institute of Technology, working with [Jean-Philippe Avouac](https://web.gps.caltech.edu/~avouac/) on [GMG projects](https://gmg.caltech.edu/)
 
 * * *
 ## More about me:  
