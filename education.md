@@ -51,25 +51,19 @@ National Scholarship, Ministry of Education of the People’s Republic of China
 
 * * *
 ## TEACHING EXPERIENCE  
-T.A., Undergraduate, Structural Geology (17 students), UCR Winter 2023  
-T.A., Undergraduate, Active Tectonics and Remote Sensing (4 students), UCR Spring 2022  
-T.A., Undergraduate, Natural Hazards and Disasters (300 students), UCR Winter 2022 & Spring 2023  
-T.A., Undergraduate, Earthquake Country (300 students), UCR Fall 2021-2023  
-T.A., Undergraduate, Seismology (20 students), PKU Spring 2019  
-T.A., Undergraduate, Academic Writing in Geophysics (15 students), PKU Spring 2019  
-T.A., Undergraduate, Experiments of Seismology (20 students), PKU Spring 2018  
-T.A., Undergraduate, Field Training on Seismology (20 students), PKU Summer 2017-2019  
+T.A., Undergraduate, Geophysics Essay Writing in English (10 students), Peking University Spring 2021 
 
 * * *
 ## FIELD EXPERIENCE  
-Anninghe Fault Zone, 100 short-period instruments (2020/06-2021/06)  
-
+Aanninghe-Zemuhe Array, 161 short-period seismometers (2020/06-2021/06)  
+Longmenshan Array of small Array, 50 short-period seismometers (2018/11-2020/06)
 * * *
 ## SERVICES  
-* I serve as volunteer in the 
+* I serve as a volunteer to assist in promoting the Science of Slow to Fast Earthquakes during JpGU meeting
+* I serve as a volunteer to translate a book Memories of Professor Don Helmberger Master of Seismology and Mentor Extraordinaire
 * I serve as reviewer for multiple journals, including:  
-*Journal of Geophysical Research: Solid Earth*  
-*Seismological Research Letters*  
+*Journal of Geophysical Research: Solid Earth*, 2024-now
+*Seismological Research Letters*, 2022-now
 
 
 
