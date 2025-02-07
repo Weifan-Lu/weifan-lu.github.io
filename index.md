@@ -7,7 +7,7 @@ Currently, I am a long-term Visiting PhD student at the University of Tokyo (Fro
 
  My recent research activities are posted on [ResearchGate](https://www.researchgate.net/profile/Weifan-Lu-2) and [Google Scholar](https://scholar.google.com/citations?user=LBrFx5gAAAAJ&hl=en)
  
- 📧 Email: [luweifan001 AT gmail.com](mailto:luweifan001@gmail.com)  
+ 📧 Email: [luweifan001@gmail.com](mailto:luweifan001@gmail.com)  
 
 
 
