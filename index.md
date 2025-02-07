@@ -1,5 +1,9 @@
 ## About me:
 
+ I am a PhD student in the School of Earth and Space Science at Peking University, working with Prof. Han Yue and Prof. Lian Xue.  \
+ Now, I am a long-term Visiting PhD student at the University of Tokyo (From 2023.10-now). My supervisor is Professor Satoshi Ide.
+       I am interested in observational seismology and earthquake physics. 
+
 I am a geoscientist working on seismicity, fault zone physics, and slow earthquakes. I develop open-sourced software for seismic data processing, please stay tunned on [my GitHub](https://github.com/YijianZhou). My recent research activities are posted on [Twitter](https://twitter.com/yijian_zhou), [Bluesky](https://bsky.app/profile/yijianzhou.bsky.social), [ResearchGate](https://www.researchgate.net/profile/Yijian-Zhou-3), and [Google Scholar](https://scholar.google.com/citations?user=JgxHkKgAAAAJ&hl=en)
 
 Currently, I am a Post-doc in California Institute of Technology, working with [Jean-Philippe Avouac](https://web.gps.caltech.edu/~avouac/) on [GMG projects](https://gmg.caltech.edu/)
@@ -10,8 +14,7 @@ Currently, I am a Post-doc in California Institute of Technology, working with [
 ### [Education](./education.html)  
 ### [Publications](./publications.html)  
 ### [Presentations](./presentations.html)  
-### [CV](https://drive.google.com/file/d/1dYlDhwHDrZrh5Et0EbB-qfB60KGcbu0C/view?usp=sharing)  
-
+### [CV](https://drive.google.com/file/d/1gJIZszjbeNz2QHqwILiQO6ci1KOH_5yw/view?usp=drive_link)  
 * * *
 ## News and Events  
 
