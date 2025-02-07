@@ -39,7 +39,12 @@ Very beautiful campus, thank you William for hosting!
 **[2023.09] The [EQS paper](https://www.equsci.org.cn/article/doi/10.1016/j.eqs.2023.11.001) published**\
 This paper introduces a dense array that we spent one year deploy
 
+**[2022.12] AGU at Chicago (online)**
 
 **[2021.10] The [GJI paper](https://academic.oup.com/gji/article/228/3/1763/6413993?login=true) published**\
 This paper focuses on dynamic earthquake sequence and we develop a method to determine the fault geometry
+
+**[2021.12] AGU at San Francisco (online)**
+
+**[2019.12] AGU at San Francisco**
 
