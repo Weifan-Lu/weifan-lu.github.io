@@ -21,7 +21,7 @@ Yue. H<sup>`*`</sup>., J. Geng, **W. Lu**, & G. Li (2024). Post-foreshock transi
 
 Yue, H<sup>`*`</sup>., Z.-K. Shen, Z. Zhao, T. Wang, B. Cao, Z. Li, X. Bao, L. Zhao, X. Song, Z. Ge, C. Ren, **W. Lu**, Y. Zhang, J. Liu-Zeng, M. Wang, Q. Huang, S. Zhou, & L. Xue (2022). Rupture process of the 2021 M<sub>w</sub> 7.4 Maduo earthquake and implication for deformation mode of the Songpan-Ganzi terrane in Tibetan Plateau. *Proceedings of the National Academy of Sciences*; 119 (23): e2116445119. doi: [10.1073/pnas.2116445119](https://www.pnas.org/doi/10.1073/pnas.2116445119)
 
-Yue, H<sup>`*`</sup>., J. Sun, M. Wang, Z. Shen, M. Li, L. Xue, **W. Lu**, Y. Zhou, C. Ren, & T. Lay (2021). The 2019 Ridgecrest, California earthquake sequence: Evolution of seismic and aseismic slip on an orthogonal fault system. *Earth and Planetary Science Letters*; 570: 117066. doi: [10.1785/0220180046](https://doi.org/10.1785/0220180046) 
+Yue, H<sup>`*`</sup>., J. Sun, M. Wang, Z. Shen, M. Li, L. Xue, **W. Lu**, Y. Zhou, C. Ren, & T. Lay (2021). The 2019 Ridgecrest, California earthquake sequence: Evolution of seismic and aseismic slip on an orthogonal fault system. *Earth and Planetary Science Letters*; 570: 117066. doi: [10.1785/0220180046](https://www.sciencedirect.com/science/article/pii/S0012821X21003216)
 
 Chang, Y., C. Liang, F. Cao, L. Zhou, J. Liao, **W. Lu**, & C. Wang (2022). Seismic velocity structure for the Anninghe-Zemuhe fault zone by wave gradiometry analysis. *Chinese Journal of Geophysics (in Chinese)*; 65(8): 2886-2903, doi: [10.6038/cjg2022P0731](http://en.dzkx.org/article/doi/10.6038/cjg2022P0731)
 * * *
