@@ -39,7 +39,7 @@ I think the earthquake cataloging problem is solved to a satisfactory degree, an
 **[2023.12] AGU at SF**  
 Good to see AGU getting back to its pre-COVID state, and I'm able to meet my Chinese friends
 
-**[2023.09] The [EQS paper]([https://academic.oup.com/gji/article/228/3/1763/6413993?login=true](https://www.equsci.org.cn/article/doi/10.1016/j.eqs.2023.11.001)) published**
+**[2023.09] The [EQS paper](https://www.equsci.org.cn/article/doi/10.1016/j.eqs.2023.11.001) published**
 
 **[2021.10] The [GJI paper](https://academic.oup.com/gji/article/228/3/1763/6413993?login=true) published**
 
