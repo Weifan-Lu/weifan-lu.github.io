@@ -1,3 +1,8 @@
+## Contact
+
+📧 Email: [luweifan001@gmail.com](mailto:luweifan001@gmail.com)  
+📖 Google Scholar: [Weifan Lu](https://scholar.google.com/citations?user=XXXXXXX)
+
 ## About me:
 
  I am a PhD student in the School of Earth and Space Science at Peking University, working with Prof. [Han Yue](http://geophy.pku.edu.cn/pubtphp/yuehan/english/) and Prof. [Lian Xue](http://geophy.pku.edu.cn/people/xuelian/).  
