@@ -1,8 +1,3 @@
-## Contact
-
-📧 Email: [luweifan001@gmail.com](mailto:luweifan001@gmail.com)  
-📖 Google Scholar: [Weifan Lu](https://scholar.google.com/citations?user=XXXXXXX)
-
 ## About me:
 
  I am a PhD student in the School of Earth and Space Science at Peking University, working with Prof. [Han Yue](http://geophy.pku.edu.cn/pubtphp/yuehan/english/) and Prof. [Lian Xue](http://geophy.pku.edu.cn/people/xuelian/).  
@@ -10,7 +5,10 @@
 Currently, I am a long-term Visiting PhD student at the University of Tokyo (From 2023.10-now). My supervisor is Professor [Satoshi Ide](https://www.s.u-tokyo.ac.jp/en/people/ide_satoshi/).
        I am interested in observational seismology and earthquake physics. 
 
- My recent research activities are posted on [ResearchGate](https://www.researchgate.net/profile/Weifan-Lu-2), and [Google Scholar](https://scholar.google.com/citations?user=LBrFx5gAAAAJ&hl=en)
+ My recent research activities are posted on [ResearchGate](https://www.researchgate.net/profile/Weifan-Lu-2) and [Google Scholar](https://scholar.google.com/citations?user=LBrFx5gAAAAJ&hl=en)
+ 
+ 📧 Email: [luweifan001@gmail.com](mailto:luweifan001@gmail.com)  
+
 
 
 * * *
