@@ -4,7 +4,7 @@ layout: default
 ## EDUCATION
 
 ### 2023/10-now, Long-term Visiting Ph.D. (Geophysics)  
-The University of Tokyo, Tokyo, Japan \\
+The University of Tokyo, Tokyo, Japan \
 Advisor: Satoshi Ide 
 
 ### 2019/09-2025/07(expected), Ph.D. (Geophysics)  
