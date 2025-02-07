@@ -28,13 +28,13 @@ Very beautiful campus, thank you William for hosting!
 
 **[2024.10] SSJ meeting at Niigata**  
 
-**[2024.09] International Joint Workshop on Slow-to-Fast Earthquakes 2024 at Beppu**
+**[2024.09] International Joint Workshop on Slow-to-Fast Earthquakes at Beppu**
 
 **[2024.05] JpGU at Chiba** 
 
 **[2023.12] AGU at San Francisco** 
 
-**[2023.10] Start my Visiting PhD program at the University of Tokyo** 
+**[2023.10] I have started my Visiting PhD program at the University of Tokyo** 
 
 **[2023.09] The [EQS paper](https://www.equsci.org.cn/article/doi/10.1016/j.eqs.2023.11.001) published**
 
