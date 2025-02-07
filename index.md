@@ -37,6 +37,9 @@ Very beautiful campus, thank you William for hosting!
 **[2023.10] I have started my Visiting PhD program at the University of Tokyo** 
 
 **[2023.09] The [EQS paper](https://www.equsci.org.cn/article/doi/10.1016/j.eqs.2023.11.001) published**
+This paper introduces a dense array that we spent one year deploy
+
 
 **[2021.10] The [GJI paper](https://academic.oup.com/gji/article/228/3/1763/6413993?login=true) published**
+This paper focuses on dynamic earthquake sequence and we develop a method to determine the fault geometry
 
