@@ -2,7 +2,7 @@
 
  I am a PhD student in the School of Earth and Space Science at Peking University, working with Prof. [Han Yue](http://geophy.pku.edu.cn/pubtphp/yuehan/english/) and Prof. [Lian Xue](http://geophy.pku.edu.cn/people/xuelian/).  
  
-Currently, I am a long-term Visiting PhD student at the University of Tokyo (From 2023.10-now). My supervisor is Prof. [Satoshi Ide](https://www.s.u-tokyo.ac.jp/en/people/ide_satoshi/).
+Currently, I am a long-term Visiting PhD student at the University of Tokyo (From 2023.10-now). My advisor is Prof. [Satoshi Ide](https://www.s.u-tokyo.ac.jp/en/people/ide_satoshi/).
  
 I am interested in observational seismology and earthquake physics. 
 
@@ -46,10 +46,10 @@ This paper introduces a dense array that we spent one year deploy
 
 **[2022.12] AGU at Chicago (online)**
 
-**[2021.10] The [GJI paper](https://academic.oup.com/gji/article/228/3/1763/6413993?login=true) published**\
+**[2021.10] [GJI paper](https://academic.oup.com/gji/article/228/3/1763/6413993?login=true) published**\
 This paper focuses on dynamic earthquake sequence and we develop a method to determine the fault geometry
 
-**[2021.12] AGU at San Francisco (online)**
+**[2021.12] AGU at New Orleans (online)**
 
 **[2019.12] AGU at San Francisco**
 
