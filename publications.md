@@ -26,11 +26,4 @@ Chang, Y., C. Liang, F. Cao, L. Zhou, J. Liao, **W. Lu**, & C. Wang (2022). Seis
 * * *
 
 
-* * *
-#### Cumulative count of selected publications
-![Cumulative count of selected publications](/figures/paper_count_2024.png)  
-**1. Lead-author works**: first-author or corresponding-author SCI papers  
-**2. Collaborative / Rapid**: second or third-author SCI and first- or corresponding-author Non-SCI papers  
-**3. Representative works**: my personal picks, not necessarily Nature / Science  
-
 [back](./)
