@@ -40,7 +40,7 @@ Very beautiful campus, thank you William for hosting!
 
 **[2023.10] I have started my Visiting PhD program at the University of Tokyo** 
 
-**[2023.09] First-authored paper at [EQS](https://www.equsci.org.cn/article/doi/10.1016/j.eqs.2023.11.001) published**\
+**[2023.09] First-authored paper at [EQS](https://www.equsci.org.cn/article/doi/10.1016/j.eqs.2023.11.001)**\
 This paper introduces a dense array that we spent one year deploy
 
 **[2022.12] AGU at Chicago (online)**
