@@ -40,15 +40,21 @@ Very beautiful campus, thank you William for hosting!
 
 **[2023.10] I have started my Visiting PhD program at the University of Tokyo** 
 
-**[2023.09] The [EQS paper](https://www.equsci.org.cn/article/doi/10.1016/j.eqs.2023.11.001) published**\
+**[2023.09] First-authored paper at [EQS](https://www.equsci.org.cn/article/doi/10.1016/j.eqs.2023.11.001) published**\
 This paper introduces a dense array that we spent one year deploy
 
 **[2022.12] AGU at Chicago (online)**
 
-**[2021.10] [GJI paper](https://academic.oup.com/gji/article/228/3/1763/6413993?login=true) published**\
-This paper focuses on dynamic earthquake sequence and we develop a method to determine the fault geometry
+**[2022.04] Co-authored paper at [PNAS](https://www.pnas.org/doi/10.1073/pnas.2116445119)**\
+I am in charge of data analysis
 
 **[2021.12] AGU at New Orleans (online)**
+
+**[2021.10] First-authored paper at [GJI](https://academic.oup.com/gji/article/228/3/1763/6413993?login=true)**\
+This paper focuses on dynamic earthquake sequence and we develop a method to determine the fault geometry
+
+**[2021.09] Co-authored paper at [EPSL](https://www.sciencedirect.com/science/article/pii/S0012821X21003216?via%3Dihub)**\
+I am in charge of earthquake detection and seismicity analysis
 
 **[2019.12] AGU at San Francisco**
 
