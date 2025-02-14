@@ -4,8 +4,6 @@ layout: default
 
 ### SUBMITTED & UNDER REVIEW
 
-**Lu, W**<sup>`*`</sup>, S. Ide, & H. Yue (2024). Feature of cascading rupture frequently observed in Northern California (Under Review). *Communications Earth & Environment* 
-
 **Lu, W**, L. Xue<sup>`*`</sup>, H. Yue, L. Zhao, & J. Zhuang (2025). Exploring tidal modulation of seismicity in Southern California (Under Review).
 
 **Lu, W**<sup>`*`</sup>, S. Ide, & H. Yue (2025). Small-scale stress heterogeneity inferred from many anti-repeating earthquakes in the Sierra Valley, Nevada (Under Review).
@@ -17,6 +15,8 @@ Yue. H<sup>`*`</sup>., J. Geng, **W. Lu**, & G. Li (2024). Post-foreshock transi
 
 
 ### PEER PUBLICATIONS
+
+**Lu, W**<sup>`*`</sup>, S. Ide, & H. Yue (2025). Feature of cascading rupture frequently observed in Northern California (Accepted). *Communications Earth & Environment* 
 
 **Lu, W**., Y. Zhou, Z. Zhao, H. Yue<sup>`*`</sup>,  & S. Zhou (2021). Aftershock sequence of the 2017 M<sub>w</sub> 6.5 Jiuzhaigou, China earthquake monitored by an AsA network and its implication to fault structures and strength. *Geophysical Journal International*; 228 (3): 1763-1779. doi: [10.1093/gji/ggab443](https://doi.org/10.1093/gji/ggab443) 
 
