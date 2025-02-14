@@ -16,7 +16,7 @@ I am interested in observational seismology and earthquake physics.
 ## More about me:  
 
 ### [Education](./education.html)  
-### [Presentations](./research.html)  
+### [Research](./research.html)  
 ### [Publications](./publications.html)  
 ### [Presentations](./presentations.html)  
 ### [CV](https://drive.google.com/file/d/1gJIZszjbeNz2QHqwILiQO6ci1KOH_5yw/view?usp=sharing)  
