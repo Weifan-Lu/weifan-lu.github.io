@@ -3,11 +3,13 @@ layout: default
 ---
 ## EDUCATION
 
-### The University of Tokyo, Tokyo, Japan  2023-now
+### The University of Tokyo, Tokyo, Japan  
+2023-now\
 Visiting Ph.D. student in Geophysics\
 Advisor: Satoshi Ide 
 
-### Peking University, Beijing, China  2019-2025(expected) 
+### Peking University, Beijing, China  
+2019-2025(expected)\
 Ph.D. candidate in Geophysics\
 Advisor: Han Yue & Lian Xue
 
