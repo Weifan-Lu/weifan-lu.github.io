@@ -10,11 +10,11 @@ layout: default
 
 Yue. H<sup>`*`</sup>., J. Geng, **W. Lu**, & G. Li (2024). Post-foreshock transient slip facilitates the mainshock occurring during the 2016 Kumamoto earthquake sequence: the fourth foreshock evolution mode (Under Review)
 
-**Lu, W**<sup>`*`</sup>, S. Ide, Z. Zhao & H. Yue. TMEpy: A Python Package for Analyzing the Tidal Modulation of Fast and Slow Earthquakes (In preparation)
+**Lu, W**<sup>`*`</sup>, S. Ide, Z. Zhao & H. Yue (2025). TMEpy: A Python Package for Analyzing the Tidal Modulation of Fast and Slow Earthquakes (In preparation)
 
 ### Peer-reviewed publications
 
-**Lu, W**<sup>`*`</sup>, S. Ide, & H. Yue (2025). Feature of cascading rupture frequently observed in Northern California (Accepted). *Communications Earth & Environment* 
+**Lu, W**<sup>`*`</sup>, S. Ide, & H. Yue (2025). Feature of cascading rupture frequently observed in Northern California (In press). *Communications Earth & Environment* 
 
 **Lu, W**., Y. Zhou, Z. Zhao, H. Yue<sup>`*`</sup>,  & S. Zhou (2021). Aftershock sequence of the 2017 M<sub>w</sub> 6.5 Jiuzhaigou, China earthquake monitored by an AsA network and its implication to fault structures and strength. *Geophysical Journal International*; 228 (3): 1763-1779. doi: [10.1093/gji/ggab443](https://doi.org/10.1093/gji/ggab443) 
 
