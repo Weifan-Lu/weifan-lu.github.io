@@ -19,7 +19,7 @@ layout: default
 * * *
 ## INVITED TALKS
 
-### 2024  
+### 2022 
 - **Tidal Modulation Analysis of Fault Properties Using a Microseismic Catalog: A Case Study of Southern California, USA**  
     Youth Forum on Earthquake Science and Technology, CEA, China (2022/12)  
 
