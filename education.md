@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-## EDUCATION
+## Education
 
 ### The University of Tokyo, Tokyo, Japan  
 2023-now\
@@ -14,14 +14,14 @@ Ph.D. candidate in Geophysics\
 Advisor: Han Yue & Lian Xue
 
 * * *
-## WORKING EXPERIENCE  
+## Working experience
 
 ### 2018/10-2019/09, Research Assistant  
 Peking University, Beijing, China  
 Advisor: Han Yue 
 
 * * *
-## AWARDS
+## Awards
 
 ### 2024  
 Outstanding  Scientific Research Award, Peking University
@@ -52,15 +52,15 @@ Liu Guang-Ding Geophysics Scholarship, Liu Guang-Ding Science Foundation
 National Scholarship, Ministry of Education of the People’s Republic of China
 
 * * *
-## TEACHING EXPERIENCE  
+## Teaching experience 
 T.A., Undergraduate, Geophysics Essay Writing in English (10 students), Peking University Spring 2021 
 
 * * *
-## FIELD EXPERIENCE  
+## Field experience 
 Aanninghe-Zemuhe Array, 161 short-period seismometers (2020/06-2021/06)  
 Longmenshan Array of small Array, 50 short-period seismometers (2018/11-2020/06)
 * * *
-## SERVICES  
+## Services  
 * I serve as a volunteer to assist in promoting the Science of Slow to Fast Earthquakes during JpGU meeting
 * I serve as a volunteer to translate a book Memories of Professor Don Helmberger Master of Seismology and Mentor Extraordinaire 
 * I serve as reviewer for multiple journals, including:  
