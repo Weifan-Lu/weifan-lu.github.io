@@ -14,7 +14,7 @@ Yue. H<sup>`*`</sup>., J. Geng, **W. Lu**, & G. Li (2024). Post-foreshock transi
 
 ### Peer-reviewed publications
 
-**Lu, W**<sup>`*`</sup>, S. Ide, & H. Yue (2025). Feature of cascading rupture frequently observed in Northern California. *Communications Earth & Environment*; 6 (1), 167. doi: [10.1038/s43247-025-02138-y](https://doi.org/10.1038/s43247-025-02138-y) (Behind the Paper)[https://communities.springernature.com/posts/unraveling-the-cascading-rupture-of-northern-california-earthquakes]
+**Lu, W**<sup>`*`</sup>, S. Ide, & H. Yue (2025). Feature of cascading rupture frequently observed in Northern California. *Communications Earth & Environment*; 6 (1), 167. doi: [10.1038/s43247-025-02138-y](https://doi.org/10.1038/s43247-025-02138-y) [Behind the Paper](https://communities.springernature.com/posts/unraveling-the-cascading-rupture-of-northern-california-earthquakes)
 
 **Lu, W**., Y. Zhou, Z. Zhao, H. Yue<sup>`*`</sup>,  & S. Zhou (2021). Aftershock sequence of the 2017 M<sub>w</sub> 6.5 Jiuzhaigou, China earthquake monitored by an AsA network and its implication to fault structures and strength. *Geophysical Journal International*; 228 (3): 1763-1779. doi: [10.1093/gji/ggab443](https://doi.org/10.1093/gji/ggab443) 
 
