@@ -23,7 +23,7 @@ I am interested in observational seismology and earthquake physics.
 * * *
 ## News and Events  
 
-**[2025.02] First-authored paper at [Commun Earth Environ](https://www.nature.com/articles/s43247-025-02138-y#citeas) **
+**[2025.02] First-authored paper at [Commun Earth Environ](https://www.nature.com/articles/s43247-025-02138-y#citeas)** 
 
 **[2024.12] Visited MIT**  
 Very beautiful campus, thank you William for hosting!
