@@ -25,6 +25,7 @@ I am interested in observational seismology and earthquake physics.
 
 **[2025.02] First-authored paper at [Commun Earth Environ](https://www.nature.com/articles/s43247-025-02138-y#citeas)** 
 We are invited to write a post: [Behind the Paper](https://communities.springernature.com/posts/unraveling-the-cascading-rupture-of-northern-california-earthquakes)
+
 **[2024.12] Visited MIT**  
 Very beautiful campus, thank you William for hosting!
 
