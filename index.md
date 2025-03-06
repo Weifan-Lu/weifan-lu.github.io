@@ -19,11 +19,12 @@ I am interested in observational seismology and earthquake physics.
 ### [Research](./research.html)  
 ### [Publications](./publications.html)  
 ### [Presentations](./presentations.html)  
-### [CV](https://drive.google.com/file/d/1gJIZszjbeNz2QHqwILiQO6ci1KOH_5yw/view?usp=sharing)  
+### [CV](https://drive.google.com/file/d/1RcO-Df8X7edACN0j6V6ozt0jSKfo8_SI/view?usp=drive_link)  
 * * *
 ## News and Events  
 
-**[2025.02] First-authored paper at Commun Earth Environ accepted**
+**[2025.02] First-authored paper at [Commun Earth Environ](https://www.nature.com/articles/s43247-025-02138-y#citeas)**\
+We are invited to write a post: [Behind the Paper](https://communities.springernature.com/posts/unraveling-the-cascading-rupture-of-northern-california-earthquakes)
 
 **[2024.12] Visited MIT**  
 Very beautiful campus, thank you William for hosting!
