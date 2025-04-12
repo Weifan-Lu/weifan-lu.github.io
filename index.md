@@ -24,7 +24,6 @@ I am interested in observational seismology and earthquake physics.
 ## News and Events  
 
 **[2025.04] I host Professor Ide to visit Peking University**
-Two PKU Distinguished Lectures:
 1. Scaling Fast and Slow Earthquakes
 2. Earthquakes in Hierarchical Structure
 
