@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/76db2ebb-8e5b-43b8-a034-ca751286ff1c)## About me:
+## About me:
 
  I am a PhD student in the School of Earth and Space Science at Peking University, working with Prof. [Han Yue](http://geophy.pku.edu.cn/pubtphp/yuehan/english/) and Prof. [Lian Xue](http://geophy.pku.edu.cn/people/xuelian/).  
  
@@ -24,7 +24,7 @@ I am interested in observational seismology and earthquake physics.
 ## News and Events  
 
 **[2025.04] I host Professor Ide to visit Peking University**  
-Two PKU Distinguished Lectures: 
+Two PKU Distinguished Lectures:\
 1. Scaling Fast and Slow Earthquakes
 2. Earthquakes in Hierarchical Structure
 
