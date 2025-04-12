@@ -1,4 +1,4 @@
-## About me:
+![image](https://github.com/user-attachments/assets/76db2ebb-8e5b-43b8-a034-ca751286ff1c)## About me:
 
  I am a PhD student in the School of Earth and Space Science at Peking University, working with Prof. [Han Yue](http://geophy.pku.edu.cn/pubtphp/yuehan/english/) and Prof. [Lian Xue](http://geophy.pku.edu.cn/people/xuelian/).  
  
@@ -22,6 +22,11 @@ I am interested in observational seismology and earthquake physics.
 ### [CV](https://drive.google.com/file/d/17ScwUwI_Ry3lanT1lRuH2gtTJYCxF-KX/view?pli=1) 
 * * *
 ## News and Events  
+
+**[2025.04] I host Professor Ide to visit Peking University**  
+Two PKU Distinguished Lectures: 
+1. Scaling Fast and Slow Earthquakes
+2. Earthquakes in Hierarchical Structure
 
 **[2025.02] First-authored paper at [Commun Earth Environ](https://www.nature.com/articles/s43247-025-02138-y#citeas)**\
 We are invited to write a post: [Behind the Paper](https://communities.springernature.com/posts/unraveling-the-cascading-rupture-of-northern-california-earthquakes)
