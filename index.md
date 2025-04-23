@@ -19,9 +19,13 @@ I am interested in observational seismology and earthquake physics.
 ### [Research](./research.html)  
 ### [Publications](./publications.html)  
 ### [Presentations](./presentations.html)  
-### [CV](https://drive.google.com/file/d/1RcO-Df8X7edACN0j6V6ozt0jSKfo8_SI/view?usp=drive_link)  
+### [CV](https://drive.google.com/file/d/17ScwUwI_Ry3lanT1lRuH2gtTJYCxF-KX/view?pli=1) 
 * * *
 ## News and Events  
+
+**[2025.04] I host Professor Ide to visit Peking University**
+1. Scaling Fast and Slow Earthquakes
+2. Earthquakes in Hierarchical Structure
 
 **[2025.02] First-authored paper at [Commun Earth Environ](https://www.nature.com/articles/s43247-025-02138-y#citeas)**\
 We are invited to write a post: [Behind the Paper](https://communities.springernature.com/posts/unraveling-the-cascading-rupture-of-northern-california-earthquakes)
