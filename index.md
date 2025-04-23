@@ -1,6 +1,6 @@
 ## About me:
 
- I am a PhD student in the School of Earth and Space Science at Peking University, working with Prof. [Han Yue](http://geophy.pku.edu.cn/pubtphp/yuehan/english/) and Prof. [Lian Xue](http://geophy.pku.edu.cn/people/xuelian/).  
+ I am a PhD student in the School of Earth and Space Science at Peking University, working with Prof. [Han Yue](http://geophy.pku.edu.cn/pubtphp/yuehan/english/) and Prof. [Lian Xue](https://sites.google.com/site/lianxuelx/home).  
  
 Currently, I am a long-term Visiting PhD student at the University of Tokyo (From 2023.10-now). My advisor is Prof. [Satoshi Ide](https://www.s.u-tokyo.ac.jp/en/people/ide_satoshi/).
  
