@@ -65,7 +65,8 @@ Longmenshan Array of small Array, 50 short-period seismometers (2018/11-2020/06)
 * I serve as a volunteer to translate a book Memories of Professor Don Helmberger Master of Seismology and Mentor Extraordinaire 
 * I serve as reviewer for multiple journals, including:  
 *Journal of Geophysical Research: Solid Earth*, 2024-now\
-*Seismological Research Letters*, 2022-now
+*Seismological Research Letters*, 2022-now\
+*Earthquake Science*, 2025-now\
 
 
 
