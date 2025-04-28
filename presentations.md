@@ -2,6 +2,9 @@
 layout: default
 ---
 ## Selected presentations
+
+**Lu, W.,** S. Ide, & H. Yue (2025/05, poster). Small-scale Stress Heterogeneity Inferred Many Anti-Repeating Earthquakes in the Sierra Valley, Nevada. *JpGU Meeting*, Chiba, Japan.
+
 **Lu, W.,** S. Ide, & H. Yue (2024/12, poster). Feature of cascading rupture frequently observed in Northern California. *AGU Fall Meeting*, Washington, D.C., USA.
 
 **Lu, W.,** S. Ide, & H. Yue (2024/09, oral). Feature of cascading rupture frequently observed in Northern California. *SSJ Fall Meeting*, Niigata, Japan.
