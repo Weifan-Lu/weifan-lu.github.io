@@ -23,6 +23,9 @@ I am interested in observational seismology and earthquake physics.
 * * *
 ## News and Events  
 
+**[2025.04] Visited Tokyo University of Science**
+Thank you Aso-san for hosting!
+
 **[2025.04] I host Professor Ide to visit Peking University**
 1. Scaling Fast and Slow Earthquakes
 2. Earthquakes in Hierarchical Structure
@@ -36,7 +39,7 @@ Very beautiful campus, thank you William for hosting!
 **[2024.12] AGU at Washington, D.C.** 
 
 **[2024.11] Visited DPRI, Kyoto University**  
-[Joint-seminar](https://eqhz.dpri.kyoto-u.ac.jp/topics/seminars/%E6%9D%B1%E5%A4%A7%E7%90%86%E4%BA%95%E5%87%BA%E7%A0%94%E3%81%A8%E3%81%AE%E5%90%88%E5%90%8C%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BC20241111.html#en). Weifan give a talk about anti-repeating earthquakes
+[Joint-seminar](https://eqhz.dpri.kyoto-u.ac.jp/topics/seminars/%E6%9D%B1%E5%A4%A7%E7%90%86%E4%BA%95%E5%87%BA%E7%A0%94%E3%81%A8%E3%81%AE%E5%90%88%E5%90%8C%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BC20241111.html#en). Weifan gives a talk about anti-repeating earthquakes
 
 **[2024.10] SSJ meeting at Niigata**  
 
@@ -49,7 +52,7 @@ Very beautiful campus, thank you William for hosting!
 **[2023.10] I have started my Visiting PhD program at the University of Tokyo** 
 
 **[2023.09] First-authored paper at [EQS](https://www.equsci.org.cn/article/doi/10.1016/j.eqs.2023.11.001)**\
-This paper introduces a dense array that we spent one year deploy
+This paper introduces a dense array that we spent one year deploying
 
 **[2022.12] AGU at Chicago (online)**
 
@@ -59,7 +62,7 @@ I am in charge of data analysis
 **[2021.12] AGU at New Orleans (online)**
 
 **[2021.10] First-authored paper at [GJI](https://academic.oup.com/gji/article/228/3/1763/6413993?login=true)**\
-This paper focuses on dynamic earthquake sequence and we develop a method to determine the fault geometry
+This paper focuses on the dynamic earthquake sequence, and we develop a method to determine the fault geometry
 
 **[2021.09] Co-authored paper at [EPSL](https://www.sciencedirect.com/science/article/pii/S0012821X21003216?via%3Dihub)**\
 I am in charge of earthquake detection and seismicity analysis
