@@ -23,8 +23,8 @@ I am interested in observational seismology and earthquake physics.
 * * *
 ## News and Events  
 
-**[2025.04] Visited Tokyo University of Science**
-Thank you Aso-san for hosting!
+**[2025.04] Visited Tokyo University of Science**\
+Thank you Professor Aso for hosting!
 
 **[2025.04] I host Professor Ide to visit Peking University**
 1. Scaling Fast and Slow Earthquakes
