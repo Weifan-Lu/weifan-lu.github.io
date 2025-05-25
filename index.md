@@ -23,6 +23,8 @@ I am interested in observational seismology and earthquake physics.
 * * *
 ## News and Events  
 
+**[2025.05] I successfully defended my Ph.D. thesis**\
+
 **[2025.04] Visited Tokyo University of Science**\
 Thank you Professor Aso for hosting!
 
