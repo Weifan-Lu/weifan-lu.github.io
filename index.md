@@ -1,8 +1,7 @@
 ## About me:
+I am a postdoctoral researcher in the Department of Earth and Planetary Science at the University of Tokyo, working with Prof. [Satoshi Ide](https://www.s.u-tokyo.ac.jp/en/people/ide_satoshi/). 
 
- I am a PhD student in the School of Earth and Space Science at Peking University, working with Prof. [Han Yue](http://geophy.pku.edu.cn/pubtphp/yuehan/english/) and Prof. [Lian Xue](https://sites.google.com/site/lianxuelx/home).  
- 
-Currently, I am a long-term Visiting PhD student at the University of Tokyo (From 2023.10-now). My advisor is Prof. [Satoshi Ide](https://www.s.u-tokyo.ac.jp/en/people/ide_satoshi/).
+Before joining UTokyo, I received my Ph.D. from the School of Earth and Space Sciences at Peking University, where I was advised by Prof.  [Han Yue](http://geophy.pku.edu.cn/pubtphp/yuehan/english/) and Prof. [Lian Xue](https://sites.google.com/site/lianxuelx/home).  During my Ph.D. studies, I was also a long-term visiting Ph.D. student at the University of Tokyo (October 2023 – July 2025), under the supervision of Prof. [Satoshi Ide](https://www.s.u-tokyo.ac.jp/en/people/ide_satoshi/).
  
 I am interested in observational seismology and earthquake physics. 
 
