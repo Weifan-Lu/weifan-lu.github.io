@@ -10,7 +10,7 @@ Advisor: Satoshi Ide
 
 ### Peking University, Beijing, China  
 2019-2025\
-Ph.D. candidate in Geophysics\
+Ph.D. in Geophysics\
 Advisor: Han Yue & Lian Xue
 
 * * *
