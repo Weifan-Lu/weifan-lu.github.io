@@ -20,7 +20,11 @@ I am interested in observational seismology and earthquake physics.
 ### [Presentations](./presentations.html)  
 ### [CV](https://www.dropbox.com/scl/fi/44x3l0j47gvtp64m2oeg7/CurriculumVitae_Weifan_Lu_2025_05.pdf?rlkey=b1jqz5fr9g4nhh3gf7amcjz00&st=i9wlkedc&dl=0)
 * * *
-## News and Events  
+## News and Events
+**[2025.07] I was invited to give a talk at the 1st Mini-Workshop of the ANR PREMs Project, Ecole Normale Supérieure Paris**
+
+**[2025.06] I gave a talk at Yunnan University**
+Thank you Professor Ren for hosting!
 
 **[2025.05] I successfully defended my Ph.D. thesis**
 
