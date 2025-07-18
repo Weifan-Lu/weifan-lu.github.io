@@ -23,7 +23,7 @@ I am interested in observational seismology and earthquake physics.
 ## News and Events
 **[2025.07] I was invited to give a talk at the 1st Mini-Workshop of the ANR PREMs Project, Ecole Normale Supérieure Paris**
 
-**[2025.06] I gave a talk at Yunnan University**
+**[2025.06] I gave a talk at Yunnan University**\
 Thank you Professor Ren for hosting!
 
 **[2025.05] I successfully defended my Ph.D. thesis**
