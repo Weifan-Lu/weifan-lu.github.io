@@ -1,6 +1,15 @@
 ---
 layout: default
 ---
+## Academic positions
+
+### The University of Tokyo, Tokyo, Japan  
+2025/07 - present\
+Post-Doc Researcher\
+Advisor: Satoshi Ide 
+
+* * *
+
 ## Education
 
 ### The University of Tokyo, Tokyo, Japan  
@@ -14,13 +23,7 @@ Ph.D. in Geophysics\
 Advisor: Han Yue & Lian Xue
 
 * * *
-## Working experience
 
-### 2018/10-2019/09, Research Assistant  
-Peking University, Beijing, China  
-Advisor: Han Yue 
-
-* * *
 ## Awards
 
 ### 2024  
