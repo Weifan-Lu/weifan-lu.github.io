@@ -4,7 +4,7 @@ layout: default
 
 ### Manuscripts in review/revision
 
-**Lu, W**, L. Xue<sup>`*`</sup>, H. Yue, L. Zhao, & J. Zhuang (2025). Exploring tidal modulation of seismicity in Southern California (Under Review).
+**Lu, W**, L. Xue<sup>`*`</sup>, H. Yue, L. Zhao, & J. Zhuang (2025). Exploring tidal modulation of seismicity in Southern California (Minor Revision, *Journal of Geophysical Research - Solid Earth*).
 
 
 
@@ -14,7 +14,7 @@ layout: default
 
 ### Peer-reviewed publications
 
-**Lu, W**<sup>`*`</sup>, S. Ide, & H. Yue (2025). Small-scale stress heterogeneity inferred from many anti-repeating earthquakes in the Sierra Valley, Nevada (Accepted, Earth, Planets and Space).
+**Lu, W**<sup>`*`</sup>, S. Ide, & H. Yue (2025). Small-scale stress heterogeneity inferred from many anti-repeating earthquakes in the Sierra Valley, Nevada (Accepted, *Earth, Planets and Space*).
 
 **Lu, W**<sup>`*`</sup>, S. Ide, & H. Yue (2025). Feature of cascading rupture frequently observed in Northern California. *Communications Earth & Environment*; 6 (1), 167. doi: [10.1038/s43247-025-02138-y](https://doi.org/10.1038/s43247-025-02138-y) [Behind the Paper](https://communities.springernature.com/posts/unraveling-the-cascading-rupture-of-northern-california-earthquakes)
 
