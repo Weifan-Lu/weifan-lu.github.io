@@ -14,7 +14,7 @@ layout: default
 
 ### Peer-reviewed publications
 
-**Lu, W**<sup>`*`</sup>, S. Ide, & H. Yue (2025). Small-scale stress heterogeneity inferred from many anti-repeating earthquakes in the Sierra Valley, Nevada (Accepted, *Earth, Planets and Space*).
+**Lu, W**<sup>`*`</sup>, S. Ide, & H. Yue (2025). Small-scale stress heterogeneity inferred from many anti-repeating earthquakes in the Sierra Valley, Nevada (In press, *Earth, Planets and Space*). doi: 10.1186/s40623-025-02273-y
 
 **Lu, W**<sup>`*`</sup>, S. Ide, & H. Yue (2025). Feature of cascading rupture frequently observed in Northern California. *Communications Earth & Environment*; 6 (1), 167. doi: [10.1038/s43247-025-02138-y](https://doi.org/10.1038/s43247-025-02138-y) [Behind the Paper](https://communities.springernature.com/posts/unraveling-the-cascading-rupture-of-northern-california-earthquakes)
 
