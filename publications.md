@@ -4,7 +4,7 @@ layout: default
 
 ### Manuscripts in review/revision
 
-**Lu, W**, L. Xue<sup>`*`</sup>, H. Yue, L. Zhao, & J. Zhuang (2025). Exploring tidal modulation of seismicity in Southern California (Minor Revision, *Journal of Geophysical Research - Solid Earth*).
+**Lu, W**, L. Xue<sup>`*`</sup>, H. Yue, L. Zhao, & J. Zhuang (2025). Exploring tidal modulation of seismicity in Southern California (Under Review, *Journal of Geophysical Research - Solid Earth*).
 
 
 
