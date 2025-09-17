@@ -21,6 +21,9 @@ I am interested in observational seismology and earthquake physics.
 ### [CV](https://onedrive.live.com/?cid=8868E83C8EA704CC&sb=name&sd=1&id=8868E83C8EA704CC%2121417&parId=8868E83C8EA704CC%2121416&o=OneUp)
 * * *
 ## News and Events
+**[2025.08] Visited Monash University, Australia**\
+Thank you Professor Capitanio for hosting!
+
 **[2025.08] First-authored paper at [Earth, Planets and Space](https://link.springer.com/article/10.1186/s40623-025-02273-y)**
 
 **[2025.07] I was invited to give a talk at the 1st Mini-Workshop of the ANR PREMs Project, Ecole Normale Supérieure Paris**
