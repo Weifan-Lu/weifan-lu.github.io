@@ -25,9 +25,7 @@ I am interested in observational seismology and earthquake physics.
 Thank you Professor Capitanio for hosting!
 
 **[2025.08] First-authored paper at [Earth, Planets and Space](https://link.springer.com/article/10.1186/s40623-025-02273-y)**\
-News:
-[Science of Slow to Fast](https://en.slow-to-fast-eq.org/news/1572/)\
-[Prof. Ide's Lab](http://www-solid.eps.s.u-tokyo.ac.jp/~ide/en/paper-by-dr-weifan-lu-et-al-was-published-on-earth-planets-and-space/)
+**News**: [Science of Slow to Fast](https://en.slow-to-fast-eq.org/news/1572/) [Prof. Ide's Lab](http://www-solid.eps.s.u-tokyo.ac.jp/~ide/en/paper-by-dr-weifan-lu-et-al-was-published-on-earth-planets-and-space/)
 
 
 **[2025.07] I was invited to give a talk at the 1st Mini-Workshop of the ANR PREMs Project, Ecole Normale Supérieure Paris**
