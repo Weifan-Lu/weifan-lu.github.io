@@ -23,11 +23,11 @@ Zhao, Z., Xue, L<sup>`*`</sup>., Burgmann, R., Heimisson, E., **Lu, W**., Yue, H
 
 **Lu, W**., Zhao, Z., Yue, H<sup>`*`</sup>., Zhou, S., Wu, J., & Song, X (2024). The accessible seismological dataset of a high-density 2D seismic array along Anninghe fault. *Earthquake Science*; 37 (1): 67-77. doi: [10.1016/j.eqs.2023.11.001](https://www.equsci.org.cn/article/doi/10.1016/j.eqs.2023.11.001)
 
-Yue, H.<sup>*</sup>, Shen, Z.-K., Zhao, Z., Wang, T., Cao, B., Li, Z., Bao, X., Zhao, L., Song, X., Ge, Z., Ren, C., Lu, W., Zhang, Y., Liu-Zeng, J., Wang, M., Huang, Q., Zhou, S., & Xue, L. (2022). Rupture process of the 2021 M<sub>w</sub> 7.4 Maduo earthquake and implication for deformation mode of the Songpan-Ganzi terrane in Tibetan Plateau. *Proceedings of the National Academy of Sciences*; 119 (23): e2116445119. doi: [10.1073/pnas.2116445119](https://www.pnas.org/doi/10.1073/pnas.2116445119)
+Yue, H.<sup>*</sup>, Shen, Z.-K., Zhao, Z., Wang, T., Cao, B., Li, Z., Bao, X., Zhao, L., Song, X., Ge, Z., Ren, C., **Lu, W**., Zhang, Y., Liu-Zeng, J., Wang, M., Huang, Q., Zhou, S., & Xue, L. (2022). Rupture process of the 2021 M<sub>w</sub> 7.4 Maduo earthquake and implication for deformation mode of the Songpan-Ganzi terrane in Tibetan Plateau. *Proceedings of the National Academy of Sciences*; 119 (23): e2116445119. doi: [10.1073/pnas.2116445119](https://www.pnas.org/doi/10.1073/pnas.2116445119)
 
 Yue, H.<sup>*</sup>, Sun, J., Wang, M., Shen, Z., Li, M., Xue, L., **Lu, W**., Zhou, Y., Ren, C., & Lay, T. (2021). The 2019 Ridgecrest, California earthquake sequence: Evolution of seismic and aseismic slip on an orthogonal fault system. *Earth and Planetary Science Letters*; 570: 117066. doi: [10.1785/0220180046](https://doi.org/10.1016/j.epsl.2021.117066)
 
-Chang, Y., Liang, C., Cao, F., Zhou, L., Liao, J.,**Lu, W**., & Wang, C. (2022). Seismic velocity structure for the Anninghe-Zemuhe fault zone by wave gradiometry analysis. *Chinese Journal of Geophysics (in Chinese)*; 65(8): 2886-2903, doi: [10.6038/cjg2022P0731](http://en.dzkx.org/article/doi/10.6038/cjg2022P0731)
+Chang, Y., Liang, C., Cao, F., Zhou, L., Liao, J., **Lu, W**., & Wang, C. (2022). Seismic velocity structure for the Anninghe-Zemuhe fault zone by wave gradiometry analysis. *Chinese Journal of Geophysics (in Chinese)*; 65(8): 2886-2903, doi: [10.6038/cjg2022P0731](http://en.dzkx.org/article/doi/10.6038/cjg2022P0731)
 * * *
 
 
