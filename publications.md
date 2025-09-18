@@ -6,9 +6,7 @@ layout: default
 
 **Lu, W**, L. Xue<sup>`*`</sup>, H. Yue, L. Zhao, & J. Zhuang (2025). Exploring tidal modulation of seismicity in Southern California (Under Review, *Journal of Geophysical Research - Solid Earth*).
 
-
-
- Yue. H<sup>`*`</sup>., **W. Lu**, & G. Li (2025). Post-foreshock transient slip facilitates the mainshock occurring during the 2016 Kumamoto earthquake sequence: the fourth foreshock evolution mode (Under Review,  *Earth and Planetary Science Letters*)
+Yue. H<sup>`*`</sup>., **W. Lu**, & G. Li (2025). Post-foreshock transient slip facilitates the mainshock occurring during the 2016 Kumamoto earthquake sequence: the fourth foreshock evolution mode (Under Review,  *Earth and Planetary Science Letters*)
 
 <!-- **Lu, W**<sup>`*`</sup>, S. Ide, Z. Zhao & H. Yue (2025). TiMEpy: A Python Package for Analyzing the Tidal Modulation of Fast and Slow Earthquakes (to be submitted) -->
 
