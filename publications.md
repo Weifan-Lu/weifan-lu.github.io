@@ -8,6 +8,8 @@ layout: default
 
 Yue. H<sup>`*`</sup>., **W. Lu**, & G. Li (2025). Post-foreshock transient slip facilitates the mainshock occurring during the 2016 Kumamoto earthquake sequence: the fourth foreshock evolution mode (Under Review,  *Earth and Planetary Science Letters*)
 
+Zhao, Z., Xue, L*., Burgmann, R, Heimisson, E,   **W. Lu**., Yue, H. (2025) Periodic seismicity modulations reveal important roles of pore fluid behaviors in controlling fast and slow earthquakes (Under Review, *Science Advances*). 
+
 <!-- **Lu, W**<sup>`*`</sup>, S. Ide, Z. Zhao & H. Yue (2025). TiMEpy: A Python Package for Analyzing the Tidal Modulation of Fast and Slow Earthquakes (to be submitted) -->
 
 ### Peer-reviewed publications
