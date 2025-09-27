@@ -21,6 +21,8 @@ I am interested in observational seismology and earthquake physics.
 ### [CV](https://onedrive.live.com/?cid=8868E83C8EA704CC&sb=name&sd=1&id=8868E83C8EA704CC%2121417&parId=8868E83C8EA704CC%2121416&o=OneUp)
 * * *
 ## News and Events
+**[2025.09] International Joint Workshop on Slow-to-Fast Earthquakes at Kochi**
+
 **[2025.08] Visited Monash University, Australia**\
 Thank you Professor Capitanio for hosting!
 
