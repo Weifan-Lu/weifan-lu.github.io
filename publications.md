@@ -30,7 +30,7 @@ Yue, H<sup>`*`</sup>., Shen, Z.-K., Zhao, Z., Wang, T., Cao, B., Li, Z., Bao, X.
 
 Chang, Y., Liang, C., Cao, F., Zhou, L., Liao, J., **Lu, W**., & Wang, C. (2022). Seismic velocity structure for the Anninghe-Zemuhe fault zone by wave gradiometry analysis. *Chinese Journal of Geophysics (in Chinese)*; 65(8): 2886-2903, doi: [10.6038/cjg2022P0731](http://en.dzkx.org/article/doi/10.6038/cjg2022P0731)
 
-Yue, H<sup>*</sup>, Sun, J., Wang, M., Shen, Z., Li, M., Xue, L., **Lu, W**., Zhou, Y., Ren, C., & Lay, T. (2021). The 2019 Ridgecrest, California earthquake sequence: Evolution of seismic and aseismic slip on an orthogonal fault system. *Earth and Planetary Science Letters*; 570: 117066. doi: [10.1785/0220180046](https://doi.org/10.1016/j.epsl.2021.117066)
+Yue, H<sup>`*`</sup>., Sun, J., Wang, M., Shen, Z., Li, M., Xue, L., **Lu, W**., Zhou, Y., Ren, C., & Lay, T. (2021). The 2019 Ridgecrest, California earthquake sequence: Evolution of seismic and aseismic slip on an orthogonal fault system. *Earth and Planetary Science Letters*; 570: 117066. doi: [10.1785/0220180046](https://doi.org/10.1016/j.epsl.2021.117066)
 * * *
 
 
