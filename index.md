@@ -18,7 +18,7 @@ I am interested in observational seismology and earthquake physics.
 ### [Research](./research.html)  
 ### [Publications](./publications.html)  
 ### [Presentations](./presentations.html)  
-### [CV](https://onedrive.live.com/?cid=8868E83C8EA704CC&sb=name&sd=1&id=8868E83C8EA704CC%2121417&parId=8868E83C8EA704CC%2121416&o=OneUp)
+### [CV](https://drive.google.com/file/d/1GJwiVulzc0sQmPyqSUeCyrW1C2oXZfYl/edit)
 * * *
 ## News and Events
 **[2025.10] Visited GNS, Wellington, Zew Zealand**\
