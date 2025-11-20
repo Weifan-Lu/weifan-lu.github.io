@@ -6,9 +6,9 @@ layout: default
 
 **Lu, W**., Xue, L<sup>`*`</sup>., Yue, H., Zhao, L., & Zhuang, J. (2025). Exploring tidal modulation of seismicity in Southern California (Under Review, *Journal of Geophysical Research - Solid Earth*)
 
-**Lu, W<sup>`*`</sup>**. (2025). Migration of Multimodal Deep Earthquake Swarm beneath the Abu Volcano Group, Japan (Major Revision, *Geophysical Research Letters*)
+<!--  **Lu, W<sup>`*`</sup>**. (2025). Migration of Multimodal Deep Earthquake Swarm beneath the Abu Volcano Group, Japan (Major Revision, *Geophysical Research Letters*) -->
 
-**Lu, W<sup>`*`</sup>** & Ide, S. (2025). Spatiotemporal Characteristics of Tectonic Tremor in California (Submitted)
+<!--  **Lu, W<sup>`*`</sup>** & Ide, S. (2025). Spatiotemporal Characteristics of Tectonic Tremor in California (Submitted) -->
 
 Yue. H<sup>`*`</sup>., **Lu, W**., & Li, G. (2025). Post-foreshock transient slip facilitates the mainshock occurring during the 2016 Kumamoto earthquake sequence: the fourth foreshock evolution mode (Under Review,  *Earth and Planetary Science Letters*)
 
