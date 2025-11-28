@@ -18,7 +18,7 @@ Yue. H<sup>`*`</sup>., **Lu, W**., & Li, G. (2025). Post-foreshock transient sli
 
 **Lu, W**., Xue, L<sup>`*`</sup>., Yue, H., Zhao, L., & Zhuang, J. (2025). Exploring tidal modulation of seismicity in Southern California (Accepted, *Journal of Geophysical Research - Solid Earth*)
 
-Zhao, Z., Xue, L<sup>`*`</sup>., Burgmann, R., Heimisson, E., **Lu, W**., Yue, H. (2025) Periodic seismicity modulations reveal important roles of pore fluid behaviors in controlling fast and slow earthquakes (Accepted, *Science Advances*)
+Zhao, Z., Xue, L<sup>`*`</sup>., Burgmann, R., Heimisson, E., **Lu, W**., Yue, H. (2025) Periodic seismicity modulations reveal important roles of pore fluid behaviors in controlling fast and slow earthquakes (In press, *Science Advances*)
 
 
 **Lu, W**<sup>`*`</sup>., Ide, S., & Yue, H. (2025). Small-scale stress heterogeneity inferred from many anti-repeating earthquakes in Sierra Valley, Nevada. *Earth, Planets and Space*; 77(1), 142. doi: [10.1186/s40623-025-02273-y](https://earth-planets-space.springeropen.com/articles/10.1186/s40623-025-02273-y)
