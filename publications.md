@@ -4,7 +4,6 @@ layout: default
 
 ### Manuscripts in review/revision
 
-**Lu, W**., Xue, L<sup>`*`</sup>., Yue, H., Zhao, L., & Zhuang, J. (2025). Exploring tidal modulation of seismicity in Southern California (Under Review, *Journal of Geophysical Research - Solid Earth*)
 
 **Lu, W<sup>`*`</sup>**. (2025). Migration of Multimodal Deep Earthquake Swarm beneath the Abu Volcano Group, Japan (Major Revision, *Geophysical Research Letters*)
 
@@ -16,6 +15,8 @@ Yue. H<sup>`*`</sup>., **Lu, W**., & Li, G. (2025). Post-foreshock transient sli
 <!-- **Lu, W**<sup>`*`</sup>, S. Ide, Z. Zhao & H. Yue. (2025). TiMEpy: A Python Package for Analyzing the Tidal Modulation of Fast and Slow Earthquakes (to be submitted) -->
 
 ### Peer-reviewed publications
+
+**Lu, W**., Xue, L<sup>`*`</sup>., Yue, H., Zhao, L., & Zhuang, J. (2025). Exploring tidal modulation of seismicity in Southern California (Accepted, *Journal of Geophysical Research - Solid Earth*)
 
 Zhao, Z., Xue, L<sup>`*`</sup>., Burgmann, R., Heimisson, E., **Lu, W**., Yue, H. (2025) Periodic seismicity modulations reveal important roles of pore fluid behaviors in controlling fast and slow earthquakes (Accepted, *Science Advances*)
 
