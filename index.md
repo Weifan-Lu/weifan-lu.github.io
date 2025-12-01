@@ -1,5 +1,5 @@
 ## About me:
-I am a postdoctoral researcher at ISTerre, CNRS, France, working with Prof. [Nikolai Shapiro] (https://sites.google.com/view/nikolai-shapiro-web-site/accueil/nikolai-shapiro-cv).
+I am a postdoctoral researcher at ISTerre, CNRS, France, working with Prof. [Nikolai Shapiro](https://sites.google.com/view/nikolai-shapiro-web-site/accueil/nikolai-shapiro-cv). 
 
 Before joining ISTerre, I was a postdoctoral researcher in the Department of Earth and Planetary Science at the University of Tokyo, working with Prof. [Satoshi Ide](https://www.s.u-tokyo.ac.jp/en/people/ide_satoshi/). 
 
