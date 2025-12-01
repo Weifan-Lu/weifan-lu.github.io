@@ -1,5 +1,7 @@
 ## About me:
-I am a postdoctoral researcher in the Department of Earth and Planetary Science at the University of Tokyo, working with Prof. [Satoshi Ide](https://www.s.u-tokyo.ac.jp/en/people/ide_satoshi/). 
+I am a postdoctoral researcher at ISTerre, CNRS, France, working with Prof. [Nikolai Shapiro] (https://sites.google.com/view/nikolai-shapiro-web-site/accueil/nikolai-shapiro-cv)
+
+Before joining ISTerre, I was a postdoctoral researcher in the Department of Earth and Planetary Science at the University of Tokyo, working with Prof. [Satoshi Ide](https://www.s.u-tokyo.ac.jp/en/people/ide_satoshi/). 
 
 I received my Ph.D. from the School of Earth and Space Sciences at Peking University, where I was advised by Prof.  [Han Yue](http://geophy.pku.edu.cn/pubtphp/yuehan/english/) and Prof. [Lian Xue](https://sites.google.com/site/lianxuelx/home).  During my Ph.D. studies, I was also a long-term visiting Ph.D. student at the University of Tokyo (October 2023 – July 2025), under the supervision of Prof. [Satoshi Ide](https://www.s.u-tokyo.ac.jp/en/people/ide_satoshi/).
  
