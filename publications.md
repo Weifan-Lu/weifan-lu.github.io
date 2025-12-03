@@ -7,7 +7,7 @@ layout: default
 
 **Lu, W<sup>`*`</sup>**. (2025). Migration of Multimodal Deep Earthquake Swarm beneath the Abu Volcano Group, Japan (Major Revision, *Geophysical Research Letters*)
 
-**Lu, W<sup>`*`</sup>** & Ide, S. (2025). Spatiotemporal Characteristics of Tectonic Tremor in California (Submitted)
+**Lu, W<sup>`*`</sup>** & Ide, S. (2025). Spatiotemporal Characteristics of Tectonic Tremor in California (Under Review)
 
 Yue. H<sup>`*`</sup>., **Lu, W**., & Li, G. (2025). Post-foreshock transient slip facilitates the mainshock occurring during the 2016 Kumamoto earthquake sequence: the fourth foreshock evolution mode (Under Review,  *Earth and Planetary Science Letters*)
 
@@ -18,7 +18,7 @@ Yue. H<sup>`*`</sup>., **Lu, W**., & Li, G. (2025). Post-foreshock transient sli
 
 **Lu, W**., Xue, L<sup>`*`</sup>., Yue, H., Zhao, L., & Zhuang, J. (2025). Exploring tidal modulation of seismicity in Southern California (Accepted, *Journal of Geophysical Research - Solid Earth*)
 
-Zhao, Z., Xue, L<sup>`*`</sup>., Burgmann, R., Heimisson, E., **Lu, W**., Yue, H. (2025) Periodic seismicity modulations reveal important roles of pore fluid behaviors in controlling fast and slow earthquakes (In press, *Science Advances*)
+Zhao, Z., Xue, L<sup>`*`</sup>., Burgmann, R., Heimisson, E., **Lu, W**., Yue, H. (2025) Periodic seismicity modulations reveal important roles of pore fluid behaviors in controlling fast and slow earthquakes. *Science Advances*; 11. doi: [10.1126/sciadv.ady6350](https://www.science.org/doi/10.1126/sciadv.ady6350#tab-citations)
 
 
 **Lu, W**<sup>`*`</sup>., Ide, S., & Yue, H. (2025). Small-scale stress heterogeneity inferred from many anti-repeating earthquakes in Sierra Valley, Nevada. *Earth, Planets and Space*; 77(1), 142. doi: [10.1186/s40623-025-02273-y](https://earth-planets-space.springeropen.com/articles/10.1186/s40623-025-02273-y)
