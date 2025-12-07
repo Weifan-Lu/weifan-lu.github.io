@@ -23,6 +23,11 @@ I am interested in observational seismology and earthquake physics.
 ### [CV](https://drive.google.com/file/d/1WSsE52XOF8xkDRW2a-OWJR7mPLE-0qIp/view?pli=1)
 * * *
 ## News and Events
+**[2025.12] Co-authored paper at [Science Advances](https://www.science.org/doi/full/10.1126/sciadv.ady6350)**\
+**News**: [Peking University](https://news.pku.edu.cn/jxky/db2b6287d4144173bc522d9a43dd27ce.htm) 
+
+**[2025.12] I relocated to ISTerre (CNRS, France) to start my postdoctoral position**
+
 **[2025.10] Visited GNS, Wellington, New Zealand**\
 Thank you, Dr. Li, for hosting!
 
