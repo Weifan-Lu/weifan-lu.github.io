@@ -2,9 +2,13 @@
 layout: default
 ---
 ## Academic positions
+### Universit ́e Grenoble-Alpes, Grenoble, France
+2025/12 - present\
+Post-Doc Researcher\
+Advisor: Nikolai Shapiro
 
 ### The University of Tokyo, Tokyo, Japan  
-2025/07 - present\
+2025/07 - 2025/12\
 Post-Doc Researcher\
 Advisor: Satoshi Ide 
 
