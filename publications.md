@@ -5,7 +5,7 @@ layout: default
 ### Manuscripts in review/revision
 
 
-**Lu, W<sup>`*`</sup>**. (2025). Migration of Multimodal Deep Earthquake Swarm beneath the Abu Volcano Group, Japan (Under Review, *Geophysical Research Letters*)
+**Lu, W<sup>`*`</sup>**. (2025). Migration of Multimodal Deep Crustal Earthquake Swarm beneath the Abu Volcano Group, Japan (Under Review, *Geophysical Research Letters*)
 
 **Lu, W<sup>`*`</sup>** & Ide, S. (2025). Spatiotemporal Characteristics of Tectonic Tremor in California (Under Review, *Geophysical Research Letters*)
 
