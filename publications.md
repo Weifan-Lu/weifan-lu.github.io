@@ -25,7 +25,7 @@ Yue. H<sup>`*`</sup>., **Lu, W**., & Li, G. (2025). Post-foreshock transient sli
 
 **Lu, W**., Zhao, Z., Yue, H<sup>`*`</sup>., Zhou, S., Wu, J., & Song, X. (2024). The accessible seismological dataset of a high-density 2D seismic array along Anninghe fault. *Earthquake Science*; 37 (1): 67-77. doi: [10.1016/j.eqs.2023.11.001](https://www.equsci.org.cn/article/doi/10.1016/j.eqs.2023.11.001) ([pdf](https://www.dropbox.com/preview/MyPapers/Lu_et_al_2024_EQS_Seismological_Dataset.pdf?session_id=4ca2f8409bcc4dbb))
 
-**Lu, W**., Zhou, Y., Zhao, Z., Yue, H<sup>`*`</sup>.,  & Zhou, S. (2022). Aftershock sequence of the 2017 M<sub>w</sub> 6.5 Jiuzhaigou, China earthquake monitored by an AsA network and its implication to fault structures and strength. *Geophysical Journal International*; 228 (3): 1763-1779. doi: [10.1093/gji/ggab443](https://doi.org/10.1093/gji/ggab443) ([pdf]((https://www.dropbox.com/preview/MyPapers/Lu_et_al_2021_GJI_Earthquake_Sequence.pdf?session_id=bf53ffbbc74a478b)
+**Lu, W**., Zhou, Y., Zhao, Z., Yue, H<sup>`*`</sup>.,  & Zhou, S. (2022). Aftershock sequence of the 2017 M<sub>w</sub> 6.5 Jiuzhaigou, China earthquake monitored by an AsA network and its implication to fault structures and strength. *Geophysical Journal International*; 228 (3): 1763-1779. doi: [10.1093/gji/ggab443](https://doi.org/10.1093/gji/ggab443) ([pdf](https://www.dropbox.com/preview/MyPapers/Lu_et_al_2021_GJI_Earthquake_Sequence.pdf?session_id=bf53ffbbc74a478b)
 
 #### Co-authored publications
 
