@@ -17,9 +17,9 @@ Yue. H<sup>`*`</sup>., **Lu, W**., & Li, G. (2025). Post-foreshock transient sli
 ### Peer-reviewed publications
 #### First-authored publications
 
-**Lu, W**., Xue, L<sup>`*`</sup>., Yue, H., Zhao, L., & Zhuang, J. (2025). Exploring tidal modulation of seismicity in Southern California. *Journal of Geophysical Research - Solid Earth*; doi: [10.1029/2025JB032249](https://doi.org/10.1029/2025JB032249) ([pdf](https://www.dropbox.com/preview/MyPapers/Lu_et_al_2025_JGR_Tidal_Modulation.pdf?session_id=74e6bf6b9534412e)
+**Lu, W**., Xue, L<sup>`*`</sup>., Yue, H., Zhao, L., & Zhuang, J. (2025). Exploring tidal modulation of seismicity in Southern California. *Journal of Geophysical Research - Solid Earth*; doi: [10.1029/2025JB032249](https://doi.org/10.1029/2025JB032249) ([pdf](https://www.dropbox.com/preview/MyPapers/Lu_et_al_2025_JGR_Tidal_Modulation.pdf?session_id=74e6bf6b9534412e))
 
-**Lu, W**<sup>`*`</sup>., Ide, S., & Yue, H. (2025). Small-scale stress heterogeneity inferred from many anti-repeating earthquakes in Sierra Valley, Nevada. *Earth, Planets and Space*; 77(1), 142. doi: [10.1186/s40623-025-02273-y](https://earth-planets-space.springeropen.com/articles/10.1186/s40623-025-02273-y)
+**Lu, W**<sup>`*`</sup>., Ide, S., & Yue, H. (2025). Small-scale stress heterogeneity inferred from many anti-repeating earthquakes in Sierra Valley, Nevada. *Earth, Planets and Space*; 77(1), 142. doi: [10.1186/s40623-025-02273-y](https://earth-planets-space.springeropen.com/articles/10.1186/s40623-025-02273-y) ([pdf](https://www.dropbox.com/preview/MyPapers/Lu_et_al_2025_EPS_Anti-Repeating_Earthquakes.pdf?session_id=3df41002c94d4741))
 
 **Lu, W**<sup>`*`</sup>., Ide, S., & Yue, H. (2025). Feature of cascading rupture frequently observed in Northern California. *Communications Earth & Environment*; 6 (1), 167. doi: [10.1038/s43247-025-02138-y](https://doi.org/10.1038/s43247-025-02138-y) [Behind the Paper](https://communities.springernature.com/posts/unraveling-the-cascading-rupture-of-northern-california-earthquakes)
 
