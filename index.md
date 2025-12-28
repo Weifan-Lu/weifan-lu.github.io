@@ -23,6 +23,8 @@ I am interested in observational seismology and earthquake physics.
 ### [CV](https://drive.google.com/file/d/1WSsE52XOF8xkDRW2a-OWJR7mPLE-0qIp/view?pli=1)
 * * *
 ## News and Events
+**[2025.12] I was awarded the [JSPS Postdoctoral Fellowship] (https://www.jsps.go.jp/file/storage/saiyo_2026/2026_1-e.pdf)**
+
 **[2025.12] First-authored paper at [JGR:Solid Earth](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JB032249)**
 
 **[2025.12] Co-authored paper at [Science Advances](https://www.science.org/doi/full/10.1126/sciadv.ady6350)**\
