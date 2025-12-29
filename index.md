@@ -20,7 +20,7 @@ I am interested in observational seismology and earthquake physics.
 ### [Research](./research.html)  
 ### [Publications](./publications.html)  
 ### [Presentations](./presentations.html)  
-### [CV](https://drive.google.com/file/d/1WSsE52XOF8xkDRW2a-OWJR7mPLE-0qIp/view?pli=1)
+### [CV](https://github.com/Weifan-Lu/weifan-lu.github.io/blob/main/WeifanLu_Dec_2025.pdf)
 * * *
 ## News and Events
 **[2025.12] I was awarded the [JSPS Postdoctoral Fellowship](https://www.jsps.go.jp/file/storage/saiyo_2026/2026_1-e.pdf)**
