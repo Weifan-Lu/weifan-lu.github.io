@@ -5,8 +5,7 @@ layout: default
 ### Manuscripts in review/revision
 
 
-
-**Lu, W<sup>`*`</sup>** & Ide, S. (2025). Spatiotemporal Characteristics of Tectonic Tremor in California (Under Review, *Geophysical Research Letters*)
+**Lu, W<sup>`*`</sup>** & Ide, S. (2025). Spatiotemporal Characteristics of Tectonic Tremor in California (Moderate Revision, *Geophysical Research Letters*)
 
 Yue. H<sup>`*`</sup>., **Lu, W**., & Li, G. (2025). Post-foreshock transient slip facilitates the mainshock occurring during the 2016 Kumamoto earthquake sequence: the fourth foreshock evolution mode (Under Review,  *Earth and Planetary Science Letters*)
 
@@ -17,7 +16,7 @@ Yue. H<sup>`*`</sup>., **Lu, W**., & Li, G. (2025). Post-foreshock transient sli
 #### First-authored publications
 **Lu, W<sup>`*`</sup>**. (2026). Migration of Multimodal Deep Crustal Earthquake Swarm beneath the Abu Volcano Group, Japan (Accepted, *Geophysical Research Letters*)
 
-**Lu, W**., Xue, L<sup>`*`</sup>., Yue, H., Zhuang, J, & Zhao, L. (2025). Exploring tidal modulation of seismicity in Southern California. *Journal of Geophysical Research - Solid Earth*; doi: [10.1029/2025JB032249](https://doi.org/10.1029/2025JB032249) ([pdf](https://www.dropbox.com/scl/fi/ulxk4z63ac5u2e5jiejio/Lu_et_al_2025_JGR_Tidal_Modulation.pdf?rlkey=6eiu2jhkpl2cyju6rq81m15we&st=9gu83ijk&dl=0))
+**Lu, W**., Xue, L<sup>`*`</sup>., Yue, H., Zhuang., J, & Zhao, L. (2025). Exploring tidal modulation of seismicity in Southern California. *Journal of Geophysical Research: Solid Earth*; doi: [10.1029/2025JB032249](https://doi.org/10.1029/2025JB032249) ([pdf](https://www.dropbox.com/scl/fi/ulxk4z63ac5u2e5jiejio/Lu_et_al_2025_JGR_Tidal_Modulation.pdf?rlkey=6eiu2jhkpl2cyju6rq81m15we&st=9gu83ijk&dl=0))
 
 **Lu, W**<sup>`*`</sup>., Ide, S., & Yue, H. (2025). Small-scale stress heterogeneity inferred from many anti-repeating earthquakes in Sierra Valley, Nevada. *Earth, Planets and Space*; 77(1), 142. doi: [10.1186/s40623-025-02273-y](https://earth-planets-space.springeropen.com/articles/10.1186/s40623-025-02273-y) ([pdf](https://www.dropbox.com/scl/fi/6ln9infuo6w04mxt6b2xj/Lu_et_al_2025_EPS_Anti-Repeating_Earthquakes.pdf?rlkey=p9nqnew6xc0cvv46d87vt48ic&st=8bag0389&dl=0))
 
