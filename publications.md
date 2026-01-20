@@ -5,7 +5,6 @@ layout: default
 ### Manuscripts in review/revision
 
 
-**Lu, W<sup>`*`</sup>**. (2025). Migration of Multimodal Deep Crustal Earthquake Swarm beneath the Abu Volcano Group, Japan (Under Review, *Geophysical Research Letters*)
 
 **Lu, W<sup>`*`</sup>** & Ide, S. (2025). Spatiotemporal Characteristics of Tectonic Tremor in California (Under Review, *Geophysical Research Letters*)
 
@@ -16,6 +15,7 @@ Yue. H<sup>`*`</sup>., **Lu, W**., & Li, G. (2025). Post-foreshock transient sli
 
 ### Peer-reviewed publications
 #### First-authored publications
+**Lu, W<sup>`*`</sup>**. (2026). Migration of Multimodal Deep Crustal Earthquake Swarm beneath the Abu Volcano Group, Japan (Accepted, *Geophysical Research Letters*)
 
 **Lu, W**., Xue, L<sup>`*`</sup>., Yue, H., Zhuang, J, & Zhao, L. (2025). Exploring tidal modulation of seismicity in Southern California. *Journal of Geophysical Research - Solid Earth*; doi: [10.1029/2025JB032249](https://doi.org/10.1029/2025JB032249) ([pdf](https://www.dropbox.com/scl/fi/ulxk4z63ac5u2e5jiejio/Lu_et_al_2025_JGR_Tidal_Modulation.pdf?rlkey=6eiu2jhkpl2cyju6rq81m15we&st=9gu83ijk&dl=0))
 
