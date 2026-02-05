@@ -5,7 +5,7 @@ layout: default
 ### Manuscripts in review/revision
 
 
-**Lu, W<sup>`*`</sup>** & Ide, S. (2025). Spatiotemporal Characteristics of Tectonic Tremor in California (Moderate Revision, *Geophysical Research Letters*)
+**Lu, W<sup>`*`</sup>** & Ide, S. (2025). Spatiotemporal Characteristics of Tectonic Tremor in California (Under Review, *Geophysical Research Letters*)
 
 Yue. H<sup>`*`</sup>., **Lu, W**., & Li, G. (2025). Post-foreshock transient slip facilitates the mainshock occurring during the 2016 Kumamoto earthquake sequence: the fourth foreshock evolution mode (Under Review,  *Earth and Planetary Science Letters*)
 
