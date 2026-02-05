@@ -11,7 +11,7 @@ Yue. H<sup>`*`</sup>., **Lu, W**., & Li, G. (2025). Post-foreshock transient sli
 
 ### Peer-reviewed publications
 #### First-authored publications
-**Lu, W<sup>`*`</sup>** & Ide, S. (2025). Spatiotemporal Characteristics of Tectonic Tremor in California (Accepted, *Geophysical Research Letters*)
+**Lu, W<sup>`*`</sup>** & Ide, S. (2026). Spatiotemporal Characteristics of Tectonic Tremor in California (Accepted, *Geophysical Research Letters*)
 
 
 **Lu, W<sup>`*`</sup>**. (2026). Migration of Multimodal Deep Crustal Earthquake Swarm beneath the Abu Volcano Group, Japan. *Geophysical Research Letters*; 53, e2025GL119316. doi: [10.1029/2025GL119316](https://doi.org/10.1029/2025GL119316)
