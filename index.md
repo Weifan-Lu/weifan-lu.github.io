@@ -20,7 +20,7 @@ I am interested in observational seismology and earthquake physics.
 ### [Research](./research.html)  
 ### [Publications](./publications.html)  
 ### [Presentations](./presentations.html)  
-### [CV](https://github.com/Weifan-Lu/weifan-lu.github.io/blob/main/WeifanLu_Dec_2025.pdf)
+### [CV](https://www.dropbox.com/scl/fi/fsbzpzxsda8fgnuz2vlff/Weifan_CV_Jan_2026.pdf?rlkey=m3p372p3vfplx1ku06lxf70y8&st=ib522qs1&dl=0)
 * * *
 ## News and Events
 **[2026.02] First-authored paper at [GRL](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL119316)**
