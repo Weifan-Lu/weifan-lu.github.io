@@ -10,7 +10,7 @@ layout: default
 
 ### Peer-reviewed publications
 #### First-authored publications
-**Lu, W<sup>`*`</sup>** & Ide, S. (2026). Spatiotemporal Characteristics of Tectonic Tremor in California. *Geophysical Research Letters*; 53, e2025GL120742. doi: [10.1029/2025GL120742](https://doi.org/10.1029/2025GL120742)([pdf](https://www.dropbox.com/scl/fi/dwgkqj9ntyfgny84rfdrg/Lu_Ide_2026_GRL_Tremor_CA.pdf?rlkey=pox45vu7z6bmyb9t1sw10iari&st=fg5em4lh&dl=0))
+**Lu, W<sup>`*`</sup>** & Ide, S. (2026). Spatiotemporal Characteristics of Tectonic Tremors in California. *Geophysical Research Letters*; 53, e2025GL120742. doi: [10.1029/2025GL120742](https://doi.org/10.1029/2025GL120742)([pdf](https://www.dropbox.com/scl/fi/dwgkqj9ntyfgny84rfdrg/Lu_Ide_2026_GRL_Tremor_CA.pdf?rlkey=pox45vu7z6bmyb9t1sw10iari&st=fg5em4lh&dl=0))
 
 
 **Lu, W<sup>`*`</sup>**. (2026). Migration of Multimodal Deep Crustal Earthquake Swarm beneath the Abu Volcano Group, Japan. *Geophysical Research Letters*; 53, e2025GL119316. doi: [10.1029/2025GL119316](https://doi.org/10.1029/2025GL119316) ([pdf](https://www.dropbox.com/scl/fi/cj0x0zue0e88e5xu3mqkc/Lu_2026_GRL_Deep_Crustal_Earthquake_Swarm.pdf?rlkey=38oveq368zkaszxvz05l6ta63&st=xcgu0167&dl=0))
