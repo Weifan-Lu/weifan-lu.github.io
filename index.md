@@ -23,6 +23,8 @@ I am interested in observational seismology and earthquake physics.
 ### [CV](https://www.dropbox.com/scl/fi/fsbzpzxsda8fgnuz2vlff/Weifan_CV_Jan_2026.pdf?rlkey=m3p372p3vfplx1ku06lxf70y8&st=ib522qs1&dl=0)
 * * *
 ## News and Events
+**[2026.02] First-authored paper at [GRL](https://agupubs.onlinelibrary.wiley.com/journal/19448007)**
+
 **[2026.02] First-authored paper at [GRL](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL119316)**
 
 **[2025.12] I was awarded the [JSPS Postdoctoral Fellowship](https://www.jsps.go.jp/file/storage/saiyo_2026/2026_1-e.pdf)**
