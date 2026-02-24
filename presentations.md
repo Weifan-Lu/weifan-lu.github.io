@@ -2,6 +2,7 @@
 layout: default
 ---
 ## Selected presentations
+**Lu, W.,** S. Ide, & H. Yue (2026/01, poster). Small-scale Stress Heterogeneity Inferred Many Anti-Repeating Earthquakes in the Sierra Valley, Nevada. *International Joint Workshop on Slow-to-Fast Earthquakes*, Florence, Italy.
 
 **Lu, W.,** S. Ide, & H. Yue (2025/05, poster). Small-scale Stress Heterogeneity Inferred Many Anti-Repeating Earthquakes in the Sierra Valley, Nevada. *JpGU Meeting*, Chiba, Japan.
 
