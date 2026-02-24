@@ -25,6 +25,8 @@ I am interested in observational seismology and earthquake physics.
 ## News and Events
 **[2026.02] First-authored paper at [GRL](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL120742) (tremor)**
 
+**[2026.02] Co-authored paper at [EPSL](https://www.sciencedirect.com/science/article/pii/S0012821X26000889?dgcid=coauthor#bib0027) (Foreshock mode)**\
+
 **[2026.02] First-authored paper at [GRL](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL119316) (swarm)**
 
 **[2025.12] I was awarded the [JSPS Postdoctoral Fellowship](https://www.jsps.go.jp/file/storage/saiyo_2026/2026_1-e.pdf)**
