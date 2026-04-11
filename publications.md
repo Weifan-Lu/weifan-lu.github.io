@@ -2,7 +2,9 @@
 layout: default
 ---
 
-<!--### Manuscripts in review/revision -->
+### Manuscripts in review/revision
+**Lu, W<sup>`*`</sup>**., Shapiro, N., & Münchmeyer, J. Magma Pathways Beneath the Klyuchevskoy Volcanic Group, Kamchatka, Revealed by a Machine-Learning-Based Earthquake Catalog. *Submitted*.
+
 
 
 
