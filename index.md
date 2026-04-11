@@ -25,13 +25,13 @@ I am interested in observational seismology and earthquake physics.
 ## News and Events
 **[2026.02] Co-authored paper at [EPSL](https://www.sciencedirect.com/science/article/pii/S0012821X26000889?dgcid=coauthor#bib0027) (Foreshock mode)**
 
-**[2026.02] First-authored paper at [GRL](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL120742) (tremor)**
+**[2026.02] First-authored paper at [GRL](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL120742) (Tremor)**
 
-**[2026.02] First-authored paper at [GRL](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL119316) (swarm)**
+**[2026.02] First-authored paper at [GRL](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL119316) (Swarm)**
 
 **[2025.12] I was awarded the [JSPS Postdoctoral Fellowship](https://www.jsps.go.jp/file/storage/saiyo_2026/2026_1-e.pdf)**
 
-**[2025.12] First-authored paper at [JGR:Solid Earth](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JB032249) (tidal modulation)**
+**[2025.12] First-authored paper at [JGR:Solid Earth](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JB032249) (Tidal modulation)**
 
 **[2025.12] Co-authored paper at [Science Advances](https://www.science.org/doi/full/10.1126/sciadv.ady6350)**\
 **News**: [Peking University](https://news.pku.edu.cn/jxky/db2b6287d4144173bc522d9a43dd27ce.htm) 
