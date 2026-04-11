@@ -4,8 +4,7 @@ layout: default
 
 ### Manuscripts in review/revision
 **Lu, W<sup>`*`</sup>**., Shapiro, N., & Münchmeyer, J. Magma Pathways Beneath the Klyuchevskoy Volcanic Group, Kamchatka, Revealed by a Machine-Learning-Based Earthquake Catalog. *Submitted*.
-
-
+**Lu, W<sup>`*`</sup>**., Ide, S., & Ren, C. Abrupt Suppression of Tectonic Tremors Outside the Stress Shadow of Mendocino Earthquakes. *Submitted*.
 
 
 <!-- **Lu, W**<sup>`*`</sup>, S. Ide, Z. Zhao & H. Yue. (2025). TiMEpy: A Python Package for Analyzing the Tidal Modulation of Fast and Slow Earthquakes (to be submitted) -->
