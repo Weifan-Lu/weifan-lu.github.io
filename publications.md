@@ -3,9 +3,9 @@ layout: default
 ---
 
 ### Manuscripts in review/revision
-**Lu, W<sup>`*`</sup>**., Shapiro, N., & Münchmeyer, J. Magma Pathways Beneath the Klyuchevskoy Volcanic Group, Kamchatka, Revealed by a Machine-Learning-Based Earthquake Catalog. *Submitted*.
+**Lu, W<sup>`*`</sup>**., Shapiro, N., & Münchmeyer, J. Magma Pathways Beneath the Klyuchevskoy Volcanic Group, Kamchatka, Revealed by a Machine-Learning-Based Earthquake Catalog. *Under Review*.
 
-**Lu, W<sup>`*`</sup>**., Ide, S., & Ren, C. Abrupt Suppression of Tectonic Tremors Outside the Stress Shadow of Mendocino Earthquakes. *Submitted*.
+**Lu, W<sup>`*`</sup>**., Ide, S., & Ren, C. Abrupt Suppression of Tectonic Tremors Outside the Stress Shadow of Mendocino Earthquakes. *Under Review*.
 
 
 <!-- **Lu, W**<sup>`*`</sup>, S. Ide, Z. Zhao & H. Yue. (2025). TiMEpy: A Python Package for Analyzing the Tidal Modulation of Fast and Slow Earthquakes (to be submitted) -->
@@ -29,6 +29,8 @@ layout: default
 
 #### Co-authored publications
 Yue. H<sup>`*`</sup>., **Lu, W**., & Li, G. (2026). Post-foreshock transient slip facilitates the mainshock occurring during the 2016 Kumamoto earthquake sequence: the fourth foreshock evolution mode. *Earth and Planetary Science Letters*; 681: 119905. doi: [10.1016/j.epsl.2026.119905](https://doi.org/10.1016/j.epsl.2026.119905)
+
+Chen, Q., Wang, L., Xue, L*.,  **Lu, W**., Li, Y*., Zhao, L., & Wu, Q. (2026). Analysis of seismic cluster distribution and focal mechanism characteristics in Changning shale gas field, Sichuan. *Chinese Journal of Geophysics (in Chinese)*. doi: [10.6038/cjg2025T0392](http://www.geophy.cn/article/doi/10.6038/cjg2025T0392)
 
 Zhao, Z., Xue, L<sup>`*`</sup>., Burgmann, R., Heimisson, E., **Lu, W**., Yue, H. (2025) Periodic seismicity modulations reveal important roles of pore fluid behaviors in controlling fast and slow earthquakes. *Science Advances*; 11. doi: [10.1126/sciadv.ady6350](https://www.science.org/doi/10.1126/sciadv.ady6350#tab-citations)
 
