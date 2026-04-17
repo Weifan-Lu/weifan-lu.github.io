@@ -2,7 +2,9 @@
 layout: default
 ---
 ## Selected presentations
-**Lu, W.,** N. Shapiro, & J. Münchmeyer (2026/05, oral). Dense Array and Machine Learning Reveal Detailed Relationship between Seismicity and Volcano Magmatic Activity beneath Klyuchevskoy Volcanic Group, Kamchatka (Oral), *EGU Meeting*, Vienna, Austria.
+**Lu, W.,** N. Shapiro, & J. Münchmeyer (2026/05, oral). Dense Array and Machine Learning Reveal Detailed Relationship between Seismicity and Volcano Magmatic Activity beneath Klyuchevskoy Volcanic Group, Kamchatka, *EGU Meeting*, Vienna, Austria.
+
+S. Ide, & **W, Lu.,** (2026/05, poster). Spatiotemporal Characteristics of Tectonic Tremor in California, *EGU Meeting*, Vienna, Austria.
 
 **Lu, W.,** S. Ide, & H. Yue (2026/01, oral). Small-scale Stress Heterogeneity Inferred Many Anti-Repeating Earthquakes in the Sierra Valley, Nevada. *International Joint Workshop on Slow-to-Fast Earthquakes*, Florence, Italy.
 
