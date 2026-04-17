@@ -4,12 +4,12 @@ layout: default
 ## Academic positions
 ### Universit ́e Grenoble-Alpes, Grenoble, France
 2025/12 - present\
-Post-Doc Researcher\
+CNRS Postdoctoral Fellow\
 Advisor: Nikolai Shapiro
 
 ### The University of Tokyo, Tokyo, Japan  
 2025/07 - 2025/12\
-Post-Doc Researcher\
+Postdoctoral Fellow\
 Advisor: Satoshi Ide 
 
 * * *
@@ -29,6 +29,8 @@ Advisor: Han Yue & Lian Xue
 * * *
 
 ## Awards
+### 2026
+JSPS Postdoctoral Fellowship, Japan
 
 ### 2024  
 Outstanding  Scientific Research Award, Peking University
