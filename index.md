@@ -23,6 +23,8 @@ I am interested in observational seismology and earthquake physics.
 ### [CV](https://www.dropbox.com/scl/fi/5y1jh0v68iqhousyc3j2v/Weifan_Lu_CV_202604.pdf?rlkey=hp7lchau5ptrn6mrmwghn1xdu&st=ytqd82j4&dl=0)
 * * *
 ## News and Events
+**[2026.04] First-authored preprint paper at [ESSOA](https://essopenarchive.org/doi/full/10.22541/essoar.15002154/v1) (Volcano seismology)**
+
 **[2026.02] Co-authored paper at [EPSL](https://www.sciencedirect.com/science/article/pii/S0012821X26000889?dgcid=coauthor#bib0027) (Foreshock mode)**
 
 **[2026.02] First-authored paper at [GRL](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL120742) (Tremor)**
