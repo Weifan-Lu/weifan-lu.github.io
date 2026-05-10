@@ -7,7 +7,7 @@ layout: default
 
 **Lu, W<sup>`*`</sup>**., Ide, S., & Ren, C. Abrupt Suppression of Tectonic Tremors Outside the Stress Shadow of Mendocino Earthquakes. *Under Review*.
 
-**Lu, W<sup>`*`</sup>**. TiMEpy: A Python Package for Analyzing Tidal Modulation of Fast and Slow Earthquakes. *Submitted to Seismica*. doi: [10.31223/X5P77P](https://doi.org/10.31223/X5P77P). [Preprint](https://eartharxiv.org/repository/view/12945/) at EarthArxiv.
+**Lu, W<sup>`*`</sup>**. TiMEpy: A Python Package for Analyzing Tidal Modulation of Fast and Slow Earthquakes. *Under Review at Seismica*. doi: [10.31223/X5P77P](https://doi.org/10.31223/X5P77P). [Preprint](https://eartharxiv.org/repository/view/12945/) at EarthArxiv.
 
 
 <!-- **Lu, W**<sup>`*`</sup>, S. Ide, Z. Zhao & H. Yue. (2025). TiMEpy: A Python Package for Analyzing the Tidal Modulation of Fast and Slow Earthquakes (to be submitted) -->
