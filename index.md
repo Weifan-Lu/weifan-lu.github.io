@@ -25,7 +25,7 @@ I am interested in observational seismology and earthquake physics.
 ## News and Events
 **[2026.05] First-authored preprint paper at [EarthArXiv](https://eartharxiv.org/repository/view/12945/) (Tidal detection)**
 
-**[2026.05] I gave a talk in ISTerre for the Wave Team**\
+**[2026.04] I gave a talk in ISTerre for the Wave Team**\
 Understanding Earthquake Physical Mechanisms through Seismicity and Waveform Analysis
 
 **[2026.04] First-authored preprint paper at [ESS Open Archive](https://essopenarchive.org/doi/full/10.22541/essoar.15002154/v1) (Volcano seismology)**
