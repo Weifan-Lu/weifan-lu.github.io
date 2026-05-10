@@ -25,6 +25,9 @@ I am interested in observational seismology and earthquake physics.
 ## News and Events
 **[2026.05] First-authored preprint paper at [EarthArXiv](https://eartharxiv.org/repository/view/12945/) (Tidal detection)**
 
+**[2026.05] I gave a talk in ISTerre for the Wave Team**\
+Understanding Earthquake Physical Mechanisms through Seismicity and Waveform Analysis
+
 **[2026.04] First-authored preprint paper at [ESS Open Archive](https://essopenarchive.org/doi/full/10.22541/essoar.15002154/v1) (Volcano seismology)**
 
 **[2026.02] Co-authored paper at [EPSL](https://www.sciencedirect.com/science/article/pii/S0012821X26000889?dgcid=coauthor#bib0027) (Foreshock mode)**
@@ -43,7 +46,7 @@ I am interested in observational seismology and earthquake physics.
 **[2025.12] I relocated to ISTerre (CNRS, France) to start my postdoctoral position**
 
 **[2025.10] Visited GNS, Wellington, New Zealand**\
-Thank you, Dr. Li, for hosting!
+Thank you, Dr. Duo Li, for hosting!
 
 **[2025.09] International Joint Workshop on Slow-to-Fast Earthquakes at Kochi**
 
@@ -57,7 +60,7 @@ Thank you, Professor Capitanio, for hosting!
 **[2025.07] I was invited to give a talk at the 1st Mini-Workshop of the ANR PREMs Project, Ecole Normale Supérieure Paris**
 
 **[2025.06] I gave a talk at Yunnan University**\
-Thank you, Professor Ren, for hosting!
+Thank you, Professor Chunmei Ren, for hosting!
 
 **[2025.05] I successfully defended my Ph.D. thesis**
 
