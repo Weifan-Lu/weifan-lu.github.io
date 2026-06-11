@@ -5,9 +5,9 @@ layout: default
 ### Manuscripts in review/revision
 **Lu, W<sup>`*`</sup>**., Shapiro, N., & Münchmeyer, J. Magma Pathways Beneath the Klyuchevskoy Volcanic Group, Kamchatka, Revealed by a Machine-Learning-Based Earthquake Catalog. *Under Review at GRL*. doi: [10.22541/essoar.15002154/v1](https://essopenarchive.org/doi/full/10.22541/essoar.15002154/v1). [Preprint](https://essopenarchive.org/doi/full/10.22541/essoar.15002154/v1) at ESS Open Archive.
 
-**Lu, W<sup>`*`</sup>**., Ide, S., & Ren, C. Abrupt Suppression of Tectonic Tremors Outside the Stress Shadow of Mendocino Earthquakes. *Under Review*.
+**Lu, W<sup>`*`</sup>**., Ide, S., & Ren, C. Abrupt Suppression of Tectonic Tremors Outside the Stress Shadow of Mendocino Earthquakes. *In Revision*.
 
-**Lu, W<sup>`*`</sup>**. TiMEpy: A Python Package for Analyzing Tidal Modulation of Fast and Slow Earthquakes. *Under Review at Seismica*. doi: [10.31223/X5P77P](https://doi.org/10.31223/X5P77P). [Preprint](https://eartharxiv.org/repository/view/12945/) at EarthArxiv.
+**Lu, W<sup>`*`</sup>**. TiMEpy: A Python Package for Analyzing Tidal Modulation of Fast and Slow Earthquakes. *In Revision*. doi: [10.31223/X5P77P](https://doi.org/10.31223/X5P77P). [Preprint](https://eartharxiv.org/repository/view/12945/) at EarthArxiv.
 
 
 <!-- **Lu, W**<sup>`*`</sup>, S. Ide, Z. Zhao & H. Yue. (2025). TiMEpy: A Python Package for Analyzing the Tidal Modulation of Fast and Slow Earthquakes (to be submitted) -->
