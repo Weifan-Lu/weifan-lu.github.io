@@ -12,9 +12,8 @@ Beyond applying advanced algorithms to detect earthquakes with diverse character
 1) Earthquake onset.
 2) Novel slip behavior.
 3) Source mechanisms of slow earthquakes.
-
-
-
+### 3. Earthquake Physics: Triggering Mechanisms
+My overarching goal is to advance the understanding of earthquake physics through the analysis of seismic observations and waveforms. Continuous natural periodic loading, such as solid Earth tides, modulates seismic activity and offers an effective approach to investigating how periodic stresses influence earthquake triggering. I have developed a set of analytical tools and workflows to quantify tidal modulation of seismicity, and applied them to a long-term, highly complete earthquake catalog in Southern California (Lu et al., 2025, JGR:SE). This approach allows us to constrain the effective background stress in the region. Our results indicate that both the background stress level and the amplitude of tidal loading play key roles in controlling the sensitivity of earthquakes to tidal forcing.
 
 
 
