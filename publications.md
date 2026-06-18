@@ -3,8 +3,6 @@ layout: default
 ---
 
 ### Manuscripts in review/revision
-**Lu, W<sup>`*`</sup>**., Shapiro, N., & Münchmeyer, J. Magma Pathways Beneath the Klyuchevskoy Volcanic Group, Kamchatka, Revealed by a Machine-Learning-Based Earthquake Catalog. *Under Review at GRL*. doi: [10.22541/essoar.15002154/v1](https://essopenarchive.org/doi/full/10.22541/essoar.15002154/v1). [Preprint](https://essopenarchive.org/doi/full/10.22541/essoar.15002154/v1) at ESS Open Archive.
-
 **Lu, W<sup>`*`</sup>**., Ide, S., & Ren, C. Abrupt Suppression of Tectonic Tremors Outside the Stress Shadow of Mendocino Earthquakes. *In Revision*.
 
 **Lu, W<sup>`*`</sup>**. TiMEpy: A Python Package for Analyzing Tidal Modulation of Fast and Slow Earthquakes. *In Revision*. doi: [10.31223/X5P77P](https://doi.org/10.31223/X5P77P). [Preprint](https://eartharxiv.org/repository/view/12945/) at EarthArxiv.
@@ -14,6 +12,8 @@ layout: default
 
 ### Peer-reviewed publications
 #### First-authored publications
+**Lu, W<sup>`*`</sup>**., Shapiro, N., & Münchmeyer, J. Magma Pathways Beneath the Klyuchevskoy Volcanic Group, Kamchatka, Revealed by a Machine-Learning-Based Earthquake Catalog. Accepted. *Geophysical Research Letters*. doi: [10.22541/essoar.15002154/v1](https://essopenarchive.org/doi/full/10.22541/essoar.15002154/v1). [Preprint](https://essopenarchive.org/doi/full/10.22541/essoar.15002154/v1) at ESS Open Archive.
+
 **Lu, W<sup>`*`</sup>** & Ide, S. (2026). Spatiotemporal Characteristics of Tectonic Tremors in California. *Geophysical Research Letters*; 53, e2025GL120742. doi: [10.1029/2025GL120742](https://doi.org/10.1029/2025GL120742) ([pdf](https://www.dropbox.com/scl/fi/dwgkqj9ntyfgny84rfdrg/Lu_Ide_2026_GRL_Tremor_CA.pdf?rlkey=pox45vu7z6bmyb9t1sw10iari&st=fg5em4lh&dl=0))
 
 
