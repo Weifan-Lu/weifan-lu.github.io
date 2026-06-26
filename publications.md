@@ -13,7 +13,7 @@ layout: default
 ### Peer-reviewed publications
 #### First-authored publications (8)
 **Lu, W<sup>`*`</sup>**., Shapiro, N., & Münchmeyer, J. (2026). Magma Pathways Beneath the Klyuchevskoy Volcanic Group, Kamchatka, Revealed by a Machine-Learning-Based Earthquake Catalog. *Geophysical Research Letters*; doi: [10.1029/
-2026GL123629](doi.org/10.1029/2026GL123629) [Preprint](https://essopenarchive.org/doi/full/10.22541/essoar.15002154/v1) at ESS Open Archive.
+2026GL123629](doi.org/10.1029/2026GL123629). [Preprint](https://essopenarchive.org/doi/full/10.22541/essoar.15002154/v1) at ESS Open Archive.
 
 **Lu, W<sup>`*`</sup>** & Ide, S. (2026). Spatiotemporal Characteristics of Tectonic Tremors in California. *Geophysical Research Letters*; 53, e2025GL120742. doi: [10.1029/2025GL120742](https://doi.org/10.1029/2025GL120742) ([pdf](https://www.dropbox.com/scl/fi/dwgkqj9ntyfgny84rfdrg/Lu_Ide_2026_GRL_Tremor_CA.pdf?rlkey=pox45vu7z6bmyb9t1sw10iari&st=fg5em4lh&dl=0))
 
