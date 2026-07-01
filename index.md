@@ -7,7 +7,7 @@ I received my Ph.D. from the School of Earth and Space Sciences at Peking Univer
  
 I am interested in observational seismology and earthquake physics. 
 
- My recent research activities are posted on [ResearchGate](https://www.researchgate.net/profile/Weifan-Lu-2) and [Google Scholar](https://scholar.google.com/citations?user=LBrFx5gAAAAJ&hl=en)
+ My recent research activities are posted on [ResearchGate](https://www.researchgate.net/profile/Weifan-Lu-2), [Google Scholar](https://scholar.google.com/citations?user=LBrFx5gAAAAJ&hl=en) and [ORCID](https://orcid.org/0000-0003-4553-8886)
  
  📧 Email: [lu.weifan@univ-grenoble-alpes.fr](mailto:lu.weifan@univ-grenoble-alpes.fr)
 
