@@ -12,7 +12,7 @@ layout: default
 
 ### Peer-reviewed publications
 #### First-authored publications (9)
-**Lu, W<sup>`*`</sup>**., Ide, S., & Ren, C. Abrupt Suppression of Tectonic Tremors Outside the Stress Shadow of Mendocino Earthquakes. *Accepted by GRL*.
+**Lu, W<sup>`*`</sup>**., Ide, S., & Ren, C. (2026). Abrupt Suppression of Tectonic Tremors Outside the Stress Shadow of Mendocino Earthquakes. *Accepted by GRL*.
 
 
 **Lu, W<sup>`*`</sup>**., Shapiro, N., & Münchmeyer, J. (2026). Magma Pathways Beneath the Klyuchevskoy Volcanic Group, Kamchatka, Revealed by a Machine-Learning-Based Earthquake Catalog. *Geophysical Research Letters*; 53, e2026GL123629. doi: [10.1029/
