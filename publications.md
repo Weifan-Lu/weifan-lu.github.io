@@ -3,8 +3,6 @@ layout: default
 ---
 
 ### Manuscripts in review/revision
-**Lu, W<sup>`*`</sup>**., Ide, S., & Ren, C. Abrupt Suppression of Tectonic Tremors Outside the Stress Shadow of Mendocino Earthquakes. *Under Review*.
-
 **Lu, W<sup>`*`</sup>**. TiMEpy: A Python Package for Analyzing Tidal Modulation of Fast and Slow Earthquakes. *In Revision*. doi: [10.31223/X5P77P](https://doi.org/10.31223/X5P77P). [Preprint](https://eartharxiv.org/repository/view/12945/) at EarthArxiv.
 
 **Lu, W<sup>`*`</sup>**. Global Predictability of Maximum Aftershock Magnitudes: Evaluating R-J and ETAS Models Across Operational Earthquake Forecasting.  *Under Review*.
@@ -13,7 +11,10 @@ layout: default
 <!-- **Lu, W**<sup>`*`</sup>, S. Ide, Z. Zhao & H. Yue. (2025). TiMEpy: A Python Package for Analyzing the Tidal Modulation of Fast and Slow Earthquakes (to be submitted) -->
 
 ### Peer-reviewed publications
-#### First-authored publications (8)
+#### First-authored publications (9)
+**Lu, W<sup>`*`</sup>**., Ide, S., & Ren, C. Abrupt Suppression of Tectonic Tremors Outside the Stress Shadow of Mendocino Earthquakes. *Accepted by GRL*.
+
+
 **Lu, W<sup>`*`</sup>**., Shapiro, N., & Münchmeyer, J. (2026). Magma Pathways Beneath the Klyuchevskoy Volcanic Group, Kamchatka, Revealed by a Machine-Learning-Based Earthquake Catalog. *Geophysical Research Letters*; 53, e2026GL123629. doi: [10.1029/
 2026GL123629](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL123629) ([pdf](https://www.dropbox.com/scl/fi/g7k1cnvdd2sn5oavscv0n/Lu_et_al_2026_GRL_Klyuchevskoy_Volcanic_Group.pdf?rlkey=h4u7i4brbj18fs8x9ld4u1s8x&st=s22us2cl&dl=0))
 
