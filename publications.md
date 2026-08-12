@@ -11,8 +11,7 @@ layout: default
 <!-- **Lu, W**<sup>`*`</sup>, S. Ide, Z. Zhao & H. Yue. (2025). TiMEpy: A Python Package for Analyzing the Tidal Modulation of Fast and Slow Earthquakes (to be submitted) -->
 
 ### Peer-reviewed publications
-#### First-authored publications (9)
-#### 2026
+#### First-authored publications
 **Lu, W<sup>`*`</sup>**., Ide, S., & Ren, C. (2026). Abrupt Suppression of Tectonic Tremors Outside the Stress Shadow of Mendocino Earthquakes.  *Geophysical Research Letters*; 53, e2026GL123699. doi: [10.1029/2026GL123699](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL123699) 
 
 
@@ -34,7 +33,7 @@ layout: default
 
 **Lu, W**., Zhou, Y., Zhao, Z., Yue, H<sup>`*`</sup>.,  & Zhou, S. (2022). Aftershock sequence of the 2017 M<sub>w</sub> 6.5 Jiuzhaigou, China earthquake monitored by an AsA network and its implication to fault structures and strength. *Geophysical Journal International*; 228 (3): 1763-1779. doi: [10.1093/gji/ggab443](https://doi.org/10.1093/gji/ggab443) ([pdf](https://www.dropbox.com/scl/fi/qavdu144pxbvojgl62sjb/Lu_et_al_2021_GJI_Earthquake_Sequence.pdf?rlkey=9juartas2r3fa53ei3ygmd4av&st=g2htuhjp&dl=0))
 
-#### Co-authored publications (6)
+#### Co-authored publications
 Yue. H<sup>`*`</sup>., **Lu, W**., & Li, G. (2026). Post-foreshock transient slip facilitates the mainshock occurring during the 2016 Kumamoto earthquake sequence: the fourth foreshock evolution mode. *Earth and Planetary Science Letters*; 681: 119905. doi: [10.1016/j.epsl.2026.119905](https://doi.org/10.1016/j.epsl.2026.119905)
 
 Chen, Q., Wang, L., Xue, L*., **Lu, W**., Li, Y*., Zhao, L., & Wu, Q. (2026). Analysis of seismic cluster distribution and focal mechanism characteristics in Changning shale gas field, Sichuan. *Chinese Journal of Geophysics (in Chinese)*. doi: [10.6038/cjg2025T0392](http://www.geophy.cn/article/doi/10.6038/cjg2025T0392)
