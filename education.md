@@ -78,6 +78,7 @@ Longmenshan Array of small Array, 50 short-period seismometers (2018/11-2020/06)
 *Seismological Research Letters*, 2022-now\
 *Earth, Planets and Space*, 2026-now\
 *Earthquake Science*, 2025-now
+*Scientific Data*, 2026-now
 
 
 
