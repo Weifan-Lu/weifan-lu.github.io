@@ -3,6 +3,9 @@ layout: default
 ---
 
 ### Manuscripts in review/revision
+**Lu, W<sup>`*`</sup>**., Shapiro, N. M., Melnik, O., Lyakhovsky, V., Münchmeyer, J., Journeau, C., Soubestre, J., & Seydoux, L. *To be submitted*
+Deep seismovolcanic tremors linked to episodes of intensive magma intrusion from the mantle.
+
 **Lu, W<sup>`*`</sup>**. TiMEpy: A Python Package for Analyzing Tidal Modulation of Fast and Slow Earthquakes. *In Revision*. doi: [10.31223/X5P77P](https://doi.org/10.31223/X5P77P). [Preprint](https://eartharxiv.org/repository/view/12945/) at EarthArxiv.
 
 **Lu, W<sup>`*`</sup>**. Global Predictability of Maximum Aftershock Magnitudes: Evaluating R-J and ETAS Models Across Operational Earthquake Forecasting.  *Under Review*.
