@@ -23,15 +23,17 @@ I am interested in observational seismology and earthquake physics.
 ### [CV](https://www.dropbox.com/scl/fi/6fdyu3etgz4f64uz49yxz/CV_Weifan_Lu_202605.pdf?rlkey=qbl0i79lfhjpw5r4y96ju1glj&st=3mooexqo&dl=0)
 * * *
 ## News and Events
+**[2026.08] I gave a talk at EOS, Nanyang Technological University, Singapore**
+
 **[2026.08] First-authored paper at [GRL](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL123699) (Quake interaction)**
 
 **[2026.06] First-authored paper at [GRL](https://agupubs.onlinelibrary.wiley.com/doi/epdf/10.1029/2026GL123629) (Volcano seismology)**
 
-**[2026.05] I gave a talk in Géoazur, Nice, France**
+**[2026.05] I gave a talk at Géoazur, Nice, France**
 
 **[2026.05] First-authored preprint paper at [EarthArXiv](https://eartharxiv.org/repository/view/12945/) (Tidal detection)**
 
-**[2026.04] I gave a talk in ISTerre for the Wave Team**\
+**[2026.04] I gave a talk at ISTerre for the Wave Team**\
 Understanding Earthquake Physical Mechanisms through Seismicity and Waveform Analysis
 
 **[2026.02] Co-authored paper at [EPSL](https://www.sciencedirect.com/science/article/pii/S0012821X26000889?dgcid=coauthor#bib0027) (Foreshock mode)**
@@ -71,7 +73,7 @@ Thank you, Professor Chunmei Ren, for hosting!
 **[2025.04] Visited Tokyo University of Science**\
 Thank you, Professor Aso, for hosting!
 
-**[2025.04] I host Professor Ide to visit Peking University**
+**[2025.04] I hosted Professor Ide to visit Peking University**
 1. Scaling Fast and Slow Earthquakes
 2. Earthquakes in Hierarchical Structure
 
@@ -79,7 +81,7 @@ Thank you, Professor Aso, for hosting!
 We are invited to write a post: [Behind the Paper](https://communities.springernature.com/posts/unraveling-the-cascading-rupture-of-northern-california-earthquakes)
 
 **[2024.12] Visited MIT**  
-Very beautiful campus, thank you William for hosting!
+Very beautiful campus; thank you, William, for hosting!
 
 **[2024.12] AGU at Washington, D.C.** 
 
