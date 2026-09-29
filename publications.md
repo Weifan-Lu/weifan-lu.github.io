@@ -4,7 +4,7 @@ layout: default
 
 ### Manuscripts in review/revision
 **Lu, W<sup>`*`</sup>**., Shapiro, N. M., Melnik, O., Lyakhovsky, V., Münchmeyer, J., Journeau, C., Soubestre, J., & Seydoux, L. *Submitted*.
-Deep seismo-volcanic tremors constrain the magma supply from the mantle. [Preprint](https://eartharxiv.org/repository/view/15186/) at EarthArxiv.
+Deep seismo-volcanic tremors constrain the magma supply from the mantle.doi: [10.31223/X5HJ77](https://doi.org/10.31223/X5HJ77). [Preprint](https://eartharxiv.org/repository/view/15186/) at EarthArxiv.
 
 **Lu, W<sup>`*`</sup>**. TiMEpy: A Python Package for Analyzing Tidal Modulation of Fast and Slow Earthquakes. *In Revision*. doi: [10.31223/X5P77P](https://doi.org/10.31223/X5P77P). [Preprint](https://eartharxiv.org/repository/view/12945/) at EarthArxiv.
 
