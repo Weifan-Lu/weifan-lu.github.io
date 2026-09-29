@@ -15,7 +15,7 @@ Deep seismo-volcanic tremors constrain the magma supply from the mantle. doi: [1
 
 ### Peer-reviewed publications
 #### First-authored publications
-**Lu, W<sup>`*`</sup>**., Ide, S., & Ren, C. (2026). Abrupt Suppression of Tectonic Tremors Outside the Stress Shadow of Mendocino Earthquakes.  *Geophysical Research Letters*; 53, e2026GL123699. doi: [10.1029/2026GL123699](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL123699) 
+**Lu, W<sup>`*`</sup>**., Ide, S., & Ren, C. (2026). Abrupt Suppression of Tectonic Tremors Outside the Stress Shadow of Mendocino Earthquakes.  *Geophysical Research Letters*; 53, e2026GL123699. doi: [10.1029/2026GL123699](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL123699) ([pdf](https://www.dropbox.com/scl/fi/2c0vw18ey9jw7mii3tkyd/Lu_et_al_2026b_GRL_MTJ.pdf?rlkey=8mwjndnop6955slxdfwvogxkk&st=sep7scgj&dl=0))
 
 
 **Lu, W<sup>`*`</sup>**., Shapiro, N., & Münchmeyer, J. (2026). Magma Pathways Beneath the Klyuchevskoy Volcanic Group, Kamchatka, Revealed by a Machine-Learning-Based Earthquake Catalog. *Geophysical Research Letters*; 53, e2026GL123629. doi: [10.1029/2026GL123629](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL123629) ([pdf](https://www.dropbox.com/scl/fi/g7k1cnvdd2sn5oavscv0n/Lu_et_al_2026_GRL_Klyuchevskoy_Volcanic_Group.pdf?rlkey=h4u7i4brbj18fs8x9ld4u1s8x&st=s22us2cl&dl=0))
