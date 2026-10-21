@@ -20,7 +20,7 @@ I am interested in observational seismology and earthquake physics.
 ### [Research](./research.html)  
 ### [Publications](./publications.html)  
 ### [Presentations](./presentations.html)  
-### [CV](./Weifan_Lu_CV_202610.pdf)
+### [CV](https://www.dropbox.com/preview/File/Weifan_Lu_CV_202610.pdf?session_id=18f756d57ed240ad)
 * * *
 ## News and Events
 **[2026.09] Preprint paper at [EarthArXiv](https://eartharxiv.org/repository/view/15186/) (Magma supply)**
